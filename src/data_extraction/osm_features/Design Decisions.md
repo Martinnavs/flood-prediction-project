@@ -51,6 +51,29 @@ To construct inputs for the hazard-exposure-vulnerability framework, we filtered
 
 ---
 
+# 4. Longitudinal Data Imputation Strategy
+
+Because OpenStreetMap is based on Volunteer Geographic Information (VGI), data completeness is highly sensitive to community mapping campaigns rather than purely physical infrastructure changes. To prevent artificial historical data gaps from skewing the machine learning model, a targeted imputation strategy is applied.
+
+### 4.1 The Crowdsourcing Artifact
+In historical slices of the dataset, it is common to see features (like `building_area_m2`) register as `0` for several years, followed by a sudden spike to a high value. Physically, an entire municipality's infrastructure is not constructed in a single year; rather, this jump represents a localized mapping campaign (e.g., rapid digitization efforts following a typhoon). Leaving a historical `0` in the dataset falsely communicates to the model that no infrastructure existed.
+
+### 4.2 Grouped Backward Fill Methodology
+To resolve these crowdsourcing artifacts, the pipeline utilizes a chronological Backward Fill (`bfill`) applied strictly within the boundaries of each `psgc`.
+* **Detection:** The pipeline sorts the data chronologically per city and flags occurrences where a feature transitions directly from `0` to `> 0`.
+* **Imputation:** Historical `0` values preceding the spike are converted to `NaN` and imputed using the earliest available mapped data for that specific `psgc`. If a city genuinely has no mapped data across all years, the value safely defaults back to `0`.
+
+### 4.3 Feature-Specific Risk Assessment
+Imputation is not applied uniformly across all metrics. It is governed by the physical permanence of the feature:
+
+* **Hydrological Hazards (`large_water_m`, `small_water_m`) - Safe to Impute:** Rivers and major drainage canals are geologically and physically stable. If a river is mapped in 2024, it was highly likely present in 2015. Backward filling introduces minimal error.
+* **Urban Footprint (`building_area_m2`, `gray_zones_area_m2`) - Moderate Risk:** Cities expand over time. Imputing a 2024 building footprint backward to 2016 will slightly overestimate historical exposure. However, this overestimation is mathematically safer and more realistic for a flood model than the catastrophic underestimation of using a crowdsourcing artifact of `0`.
+* **Resilience Proxies (`poi_count`) - High Risk (Exclude from Imputation):** Economic hubs, supermarkets, and banks change rapidly in developing regions. Backward filling modern POI counts into historical data risks severe "data leakage," falsely flagging an historically undeveloped area as highly resilient. Missing historical POIs are left as-is or handled via broader regional averages.
+
+In the context of the dataset, imputation was only applied to `small_water_m`.
+
+---
+
 ## 4. Technical Safeguards
 
 **StringDType Mitigation:** Modern versions of Pandas introduce `StringDtype`, which frequently clashes with `geopandas` spatial joins that expect traditional NumPy objects. As a design standard, all `fclass` columns are explicitly cast using `.astype(object)` prior to entering the Geowrangler aggregation chain, ensuring pipeline stability during parallel execution.
