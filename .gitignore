@@ -15,6 +15,7 @@ wheels/
 # data for municipality and parquet
 ph_adm3_municities/
 nightlight_viirs/
+openstreetmap/
 *.parquet
 
 # checkpoints
