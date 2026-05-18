@@ -16,7 +16,14 @@ wheels/
 ph_adm3_municities/
 nightlight_viirs/
 openstreetmap/
+ph_cop30_tiles/
+ph_demogs/
+data/rainfall/
+flood_control_projects/
+DPWH Flood Control Projects Live_files/
 *.parquet
+*.html
 
 # checkpoints
 .ipynb_checkpoints
+

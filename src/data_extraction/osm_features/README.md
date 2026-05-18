@@ -74,6 +74,43 @@ In the context of the dataset, imputation was only applied to `small_water_m`.
 
 ---
 
-## 4. Technical Safeguards
+### 5. Feature Normalization Strategy
+
+To improve comparability across municipalities of different sizes, selected OpenStreetMap features are normalized using the area of the same PSGC geometry used during spatial aggregation.
+
+Municipality area is computed directly from the projected PSGC boundaries:
+
+```python
+psgc_proj = psgc.to_crs("EPSG:32651")
+
+psgc["area_m2_manual"] = psgc_proj.geometry.area
+psgc["area_km2_manual"] = psgc["area_m2_manual"] / 1e6
+```
+
+Geometry-derived area is preferred over external published values (e.g., Wikipedia or PSA) because it guarantees internal consistency with the exact polygons used during overlay and zonal statistics operations.
+
+Two normalization strategies are applied:
+
+| Feature Type              | Normalization   |
+| ------------------------- | --------------- |
+| Count and linear features | Divide by `km²` |
+| Area-based features       | Divide by `m²`  |
+
+This produces physically interpretable metrics such as:
+
+* `poi_per_km2`
+* `small_water_m_per_km2`
+* `large_water_m_per_km2`
+* `building_coverage_ratio`
+* `gray_zones_coverage_ratio`
+* `green_zones_coverage_ratio`
+
+Waterways are normalized using line density (`meters per km²`) because rivers, canals, and drains are fundamentally linear hydrological networks rather than areal surfaces. In contrast, buildings and landuse are normalized as coverage ratios because they represent surface occupation and impermeability.
+
+Both raw and normalized features are retained in the final dataset to allow downstream models to learn both municipality scale and infrastructure intensity.
+
+---
+
+### 6. Technical Safeguards
 
 **StringDType Mitigation:** Modern versions of Pandas introduce `StringDtype`, which frequently clashes with `geopandas` spatial joins that expect traditional NumPy objects. As a design standard, all `fclass` columns are explicitly cast using `.astype(object)` prior to entering the Geowrangler aggregation chain, ensuring pipeline stability during parallel execution.

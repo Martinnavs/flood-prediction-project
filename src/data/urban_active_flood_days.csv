@@ -1,1409 +1,2951 @@
-city_name,psgc,month_year,reported_active_flood_days
-Batangas City,401005000,2022-10,5
-Batangas City,401005000,2022-11,1
-Batangas City,401005000,2024-01,2
-Batangas City,401005000,2024-07,3
-Batangas City,401005000,2024-10,5
-Batangas City,401005000,2025-07,1
-Batangas City,401005000,2025-09,1
-City of Alaminos,105503000,2022-08,3
-City of Alaminos,105503000,2023-07,2
-City of Alaminos,105503000,2024-07,1
-City of Alaminos,105503000,2025-07,5
-City of Angeles,330100000,2023-07,1
-City of Angeles,330100000,2024-07,3
-City of Angeles,330100000,2024-09,1
-City of Angeles,330100000,2024-10,1
-City of Angeles,330100000,2025-06,1
-City of Angeles,330100000,2025-07,3
-City of Angeles,330100000,2025-09,1
-City of Angeles,330100000,2025-12,1
-City of Antipolo,405802000,2022-04,3
-City of Antipolo,405802000,2022-09,4
-City of Antipolo,405802000,2022-10,1
-City of Antipolo,405802000,2022-12,2
-City of Antipolo,405802000,2023-07,2
-City of Antipolo,405802000,2023-08,1
-City of Antipolo,405802000,2024-07,7
-City of Antipolo,405802000,2024-08,1
-City of Antipolo,405802000,2024-09,3
-City of Antipolo,405802000,2024-10,4
-City of Antipolo,405802000,2025-03,1
-City of Antipolo,405802000,2025-04,1
-City of Antipolo,405802000,2025-06,1
-City of Antipolo,405802000,2025-07,7
-City of Antipolo,405802000,2025-08,3
-City of Bacolod,630200000,2022-03,3
-City of Bacolod,630200000,2022-04,2
-City of Bacolod,630200000,2022-07,3
-City of Bacolod,630200000,2022-09,1
-City of Bacolod,630200000,2022-10,7
-City of Bacolod,630200000,2022-11,1
-City of Bacolod,630200000,2023-01,2
-City of Bacolod,630200000,2023-04,1
-City of Bacolod,630200000,2023-05,2
-City of Bacolod,630200000,2023-07,7
-City of Bacolod,630200000,2023-08,5
-City of Bacolod,630200000,2024-06,2
-City of Bacolod,630200000,2024-07,2
-City of Bacolod,630200000,2024-09,7
-City of Bacolod,630200000,2024-10,7
-City of Bacolod,630200000,2024-11,1
-City of Bacolod,630200000,2024-12,3
-City of Bacolod,630200000,2025-06,4
-City of Bacolod,630200000,2025-07,12
-City of Bacolod,630200000,2025-08,1
-City of Bacolod,630200000,2025-09,3
-City of Bacolod,630200000,2025-10,6
-City of Bacolod,630200000,2025-11,11
-City of Bacoor,402103000,2022-10,3
-City of Bacoor,402103000,2024-05,1
-City of Bacoor,402103000,2024-07,2
-City of Bacoor,402103000,2024-09,4
-City of Bacoor,402103000,2024-10,2
-City of Bacoor,402103000,2025-07,8
-City of Bacoor,402103000,2025-09,2
-City of Bacoor,402103000,2025-11,2
-City of Bago,604502000,2022-10,3
-City of Bago,604502000,2023-07,3
-City of Bago,604502000,2023-08,5
-City of Bago,604502000,2023-09,2
-City of Bago,604502000,2023-10,2
-City of Bago,604502000,2024-07,5
-City of Bago,604502000,2024-09,4
-City of Bago,604502000,2024-10,7
-City of Bago,604502000,2025-01,1
-City of Bago,604502000,2025-06,1
-City of Bago,604502000,2025-07,10
-City of Bago,604502000,2025-08,1
-City of Bago,604502000,2025-09,2
-City of Bago,604502000,2025-11,6
-City of Baguio,1430300000,2022-08,1
-City of Baguio,1430300000,2022-11,1
-City of Baguio,1430300000,2023-05,2
-City of Baguio,1430300000,2023-06,2
-City of Baguio,1430300000,2023-07,2
-City of Baguio,1430300000,2023-09,1
-City of Baguio,1430300000,2023-12,1
-City of Baguio,1430300000,2024-02,1
-City of Baguio,1430300000,2024-03,1
-City of Baguio,1430300000,2024-07,2
-City of Baguio,1430300000,2024-08,1
-City of Baguio,1430300000,2024-09,3
-City of Baguio,1430300000,2024-10,5
-City of Baguio,1430300000,2025-07,6
-City of Baguio,1430300000,2025-09,2
-City of Baguio,1430300000,2025-10,3
-City of Baguio,1430300000,2025-11,2
-City of Bais,704604000,2025-07,1
-City of Bais,704604000,2025-09,1
-City of Bais,704604000,2025-11,2
-City of Balanga,300803000,2022-04,6
-City of Balanga,300803000,2022-09,1
-City of Balanga,300803000,2023-07,1
-City of Balanga,300803000,2024-10,2
-City of Balanga,300803000,2025-10,1
-City of Baliwag,301403000,2023-01,4
-City of Baliwag,301403000,2024-07,3
-City of Baliwag,301403000,2024-09,3
-City of Baliwag,301403000,2025-07,2
-City of Baliwag,301403000,2025-08,1
-City of Baliwag,301403000,2025-09,5
-City of Batac,102805000,2022-08,3
-City of Batac,102805000,2023-07,2
-City of Batac,102805000,2023-08,3
-City of Batac,102805000,2024-09,2
-City of Batac,102805000,2024-10,2
-City of Bayawan,704606000,2024-09,2
-City of Bayawan,704606000,2024-10,1
-City of Bayawan,704606000,2025-11,3
-City of Baybay,803708000,2022-04,12
-City of Baybay,803708000,2022-11,3
-City of Baybay,803708000,2022-12,1
-City of Baybay,803708000,2023-01,2
-City of Baybay,803708000,2024-07,3
-City of Baybay,803708000,2024-12,2
-City of Baybay,803708000,2025-04,1
-City of Baybay,803708000,2025-08,3
-City of Baybay,803708000,2025-09,2
-City of Baybay,803708000,2025-11,1
-City of Bayugan,1600301000,2024-01,2
-City of Bayugan,1600301000,2024-02,1
-City of Bislig,1606803000,2022-12,1
-City of Bislig,1606803000,2024-01,3
-City of Biñan,403403000,2022-10,3
-City of Biñan,403403000,2022-11,3
-City of Biñan,403403000,2023-01,2
-City of Biñan,403403000,2024-07,1
-City of Biñan,403403000,2024-10,5
-City of Biñan,403403000,2024-11,4
-City of Biñan,403403000,2025-07,4
-City of Biñan,403403000,2025-09,3
-City of Bogo,702211000,2022-08,5
-City of Bogo,702211000,2024-07,2
-City of Bogo,702211000,2024-09,2
-City of Bogo,702211000,2025-09,1
-City of Bogo,702211000,2025-10,3
-City of Bogo,702211000,2025-11,8
-City of Borongan,802604000,2022-04,4
-City of Borongan,802604000,2022-09,2
-City of Borongan,802604000,2022-12,5
-City of Borongan,802604000,2023-01,7
-City of Borongan,802604000,2023-02,7
-City of Borongan,802604000,2023-11,3
-City of Borongan,802604000,2024-05,3
-City of Borongan,802604000,2024-09,5
-City of Borongan,802604000,2024-10,4
-City of Borongan,802604000,2024-11,3
-City of Borongan,802604000,2024-12,2
-City of Borongan,802604000,2025-01,4
-City of Borongan,802604000,2025-02,2
-City of Borongan,802604000,2025-03,7
-City of Borongan,802604000,2025-04,3
-City of Borongan,802604000,2025-09,8
-City of Borongan,802604000,2025-10,3
-City of Borongan,802604000,2025-11,8
-City of Borongan,802604000,2025-12,2
-City of Butuan,1630400000,2022-04,3
-City of Butuan,1630400000,2022-12,5
-City of Butuan,1630400000,2023-01,2
-City of Butuan,1630400000,2023-02,3
-City of Butuan,1630400000,2024-02,8
-City of Butuan,1630400000,2024-07,1
-City of Butuan,1630400000,2024-11,1
-City of Butuan,1630400000,2025-07,2
-City of Butuan,1630400000,2025-08,1
-City of Butuan,1630400000,2025-09,2
-City of Butuan,1630400000,2025-11,7
-City of Cabadbaran,1600203000,2022-12,6
-City of Cabadbaran,1600203000,2023-01,2
-City of Cabadbaran,1600203000,2023-02,1
-City of Cabadbaran,1600203000,2024-02,3
-City of Cabadbaran,1600203000,2025-11,5
-City of Cabanatuan,304903000,2022-09,2
-City of Cabanatuan,304903000,2024-07,2
-City of Cabanatuan,304903000,2024-09,3
-City of Cabanatuan,304903000,2024-10,2
-City of Cabanatuan,304903000,2024-11,2
-City of Cabanatuan,304903000,2025-07,4
-City of Cabanatuan,304903000,2025-10,1
-City of Cabanatuan,304903000,2025-11,4
-City of Cabuyao,403404000,2022-09,1
-City of Cabuyao,403404000,2022-10,1
-City of Cabuyao,403404000,2023-01,1
-City of Cabuyao,403404000,2024-10,1
-City of Cadiz,604504000,2022-04,2
-City of Cadiz,604504000,2022-12,1
-City of Cadiz,604504000,2023-01,2
-City of Cadiz,604504000,2023-07,3
-City of Cadiz,604504000,2024-10,7
-City of Cadiz,604504000,2024-12,4
-City of Cadiz,604504000,2025-01,3
-City of Cadiz,604504000,2025-02,1
-City of Cadiz,604504000,2025-06,1
-City of Cagayan De Oro,1030500000,2022-04,2
-City of Cagayan De Oro,1030500000,2022-10,7
-City of Cagayan De Oro,1030500000,2022-12,4
-City of Cagayan De Oro,1030500000,2023-08,2
-City of Cagayan De Oro,1030500000,2024-07,3
-City of Cagayan De Oro,1030500000,2024-08,1
-City of Cagayan De Oro,1030500000,2024-10,2
-City of Cagayan De Oro,1030500000,2025-01,1
-City of Cagayan De Oro,1030500000,2025-06,3
-City of Cagayan De Oro,1030500000,2025-08,1
-City of Cagayan De Oro,1030500000,2025-10,6
-City of Cagayan De Oro,1030500000,2025-11,4
-City of Calaca,401007000,2024-10,1
-City of Calaca,401007000,2025-07,3
-City of Calaca,401007000,2025-10,1
-City of Calamba,403405000,2022-06,1
-City of Calamba,403405000,2022-11,1
-City of Calamba,403405000,2024-07,1
-City of Calamba,403405000,2024-10,1
-City of Calamba,403405000,2025-06,2
-City of Calamba,403405000,2025-07,5
-City of Calamba,403405000,2025-09,2
-City of Calapan,1705205000,2023-01,8
-City of Calapan,1705205000,2023-07,1
-City of Calapan,1705205000,2024-05,2
-City of Calapan,1705205000,2024-07,1
-City of Calapan,1705205000,2024-10,1
-City of Calapan,1705205000,2024-12,6
-City of Calapan,1705205000,2025-01,1
-City of Calapan,1705205000,2025-02,5
-City of Calapan,1705205000,2025-07,4
-City of Calapan,1705205000,2025-09,1
-City of Calapan,1705205000,2025-11,1
-City of Calbayog,806003000,2022-04,3
-City of Calbayog,806003000,2023-02,7
-City of Calbayog,806003000,2023-08,1
-City of Calbayog,806003000,2023-11,6
-City of Calbayog,806003000,2024-10,3
-City of Calbayog,806003000,2024-11,1
-City of Calbayog,806003000,2025-07,1
-City of Calbayog,806003000,2025-10,2
-City of Calbayog,806003000,2025-11,1
-City of Caloocan,1380100000,2022-06,1
-City of Caloocan,1380100000,2022-07,1
-City of Caloocan,1380100000,2022-08,2
-City of Caloocan,1380100000,2022-09,1
-City of Caloocan,1380100000,2022-10,1
-City of Caloocan,1380100000,2023-05,1
-City of Caloocan,1380100000,2023-07,4
-City of Caloocan,1380100000,2023-08,1
-City of Caloocan,1380100000,2023-09,1
-City of Caloocan,1380100000,2023-10,1
-City of Caloocan,1380100000,2024-07,11
-City of Caloocan,1380100000,2024-08,2
-City of Caloocan,1380100000,2024-09,4
-City of Caloocan,1380100000,2024-12,1
-City of Caloocan,1380100000,2025-06,1
-City of Caloocan,1380100000,2025-07,12
-City of Caloocan,1380100000,2025-08,7
-City of Caloocan,1380100000,2025-09,5
-City of Caloocan,1380100000,2025-11,1
-City of Candon,102906000,2025-01,2
-City of Candon,102906000,2025-07,2
-City of Candon,102906000,2025-09,2
-City of Canlaon,704608000,2024-06,1
-City of Canlaon,704608000,2024-09,2
-City of Canlaon,704608000,2024-11,3
-City of Canlaon,704608000,2025-02,3
-City of Canlaon,704608000,2025-05,2
-City of Canlaon,704608000,2025-08,3
-City of Canlaon,704608000,2025-09,6
-City of Canlaon,704608000,2025-10,5
-City of Canlaon,704608000,2025-11,14
-City of Carcar,702214000,2022-07,1
-City of Carcar,702214000,2022-08,2
-City of Carcar,702214000,2024-06,2
-City of Carcar,702214000,2025-11,3
-City of Carmona,402104000,2024-07,1
-City of Carmona,402104000,2024-10,2
-City of Catbalogan,806005000,2023-01,6
-City of Catbalogan,806005000,2023-07,1
-City of Catbalogan,806005000,2023-11,3
-City of Catbalogan,806005000,2024-10,2
-City of Catbalogan,806005000,2024-11,4
-City of Catbalogan,806005000,2025-09,3
-City of Catbalogan,806005000,2025-11,6
-City of Cauayan,203108000,2022-10,2
-City of Cauayan,203108000,2022-11,2
-City of Cauayan,203108000,2024-09,2
-City of Cauayan,203108000,2024-10,2
-City of Cauayan,203108000,2024-11,7
-City of Cauayan,203108000,2025-07,1
-City of Cauayan,203108000,2025-09,1
-City of Cauayan,203108000,2025-11,5
-City of Cavite,402105000,2022-10,5
-City of Cavite,402105000,2023-07,1
-City of Cavite,402105000,2024-07,3
-City of Cavite,402105000,2024-09,5
-City of Cavite,402105000,2024-10,4
-City of Cavite,402105000,2025-07,5
-City of Cebu,730600000,2022-03,1
-City of Cebu,730600000,2022-04,9
-City of Cebu,730600000,2022-07,5
-City of Cebu,730600000,2022-08,13
-City of Cebu,730600000,2022-09,6
-City of Cebu,730600000,2022-10,6
-City of Cebu,730600000,2022-11,1
-City of Cebu,730600000,2022-12,1
-City of Cebu,730600000,2023-03,1
-City of Cebu,730600000,2023-04,1
-City of Cebu,730600000,2023-05,2
-City of Cebu,730600000,2023-07,3
-City of Cebu,730600000,2023-08,3
-City of Cebu,730600000,2023-09,6
-City of Cebu,730600000,2023-10,1
-City of Cebu,730600000,2024-04,2
-City of Cebu,730600000,2024-05,2
-City of Cebu,730600000,2024-06,4
-City of Cebu,730600000,2024-07,13
-City of Cebu,730600000,2024-08,5
-City of Cebu,730600000,2024-09,9
-City of Cebu,730600000,2024-10,8
-City of Cebu,730600000,2024-11,12
-City of Cebu,730600000,2024-12,3
-City of Cebu,730600000,2025-01,11
-City of Cebu,730600000,2025-02,1
-City of Cebu,730600000,2025-04,5
-City of Cebu,730600000,2025-05,7
-City of Cebu,730600000,2025-06,10
-City of Cebu,730600000,2025-07,11
-City of Cebu,730600000,2025-08,10
-City of Cebu,730600000,2025-09,10
-City of Cebu,730600000,2025-10,9
-City of Cebu,730600000,2025-11,22
-City of Cebu,730600000,2025-12,3
-City of Cotabato,1908703000,2022-10,5
-City of Cotabato,1908703000,2023-05,3
-City of Cotabato,1908703000,2023-06,1
-City of Cotabato,1908703000,2024-07,12
-City of Cotabato,1908703000,2024-09,3
-City of Cotabato,1908703000,2024-10,5
-City of Cotabato,1908703000,2024-11,1
-City of Cotabato,1908703000,2025-05,1
-City of Cotabato,1908703000,2025-07,3
-City of Cotabato,1908703000,2025-08,3
-City of Dagupan,105518000,2022-07,4
-City of Dagupan,105518000,2022-08,3
-City of Dagupan,105518000,2022-09,4
-City of Dagupan,105518000,2023-05,1
-City of Dagupan,105518000,2023-06,1
-City of Dagupan,105518000,2023-07,5
-City of Dagupan,105518000,2023-08,7
-City of Dagupan,105518000,2023-09,3
-City of Dagupan,105518000,2024-01,1
-City of Dagupan,105518000,2024-05,2
-City of Dagupan,105518000,2024-07,9
-City of Dagupan,105518000,2024-08,1
-City of Dagupan,105518000,2024-09,14
-City of Dagupan,105518000,2024-10,3
-City of Dagupan,105518000,2024-11,6
-City of Dagupan,105518000,2025-06,2
-City of Dagupan,105518000,2025-07,10
-City of Dagupan,105518000,2025-08,5
-City of Dagupan,105518000,2025-09,2
-City of Dagupan,105518000,2025-10,2
-City of Dagupan,105518000,2025-11,4
-City of Dapitan,907201000,2022-03,4
-City of Dapitan,907201000,2022-12,4
-City of Dapitan,907201000,2023-01,3
-City of Dapitan,907201000,2025-06,1
-City of Dasmariñas,402106000,2022-09,1
-City of Dasmariñas,402106000,2024-07,1
-City of Dasmariñas,402106000,2024-09,1
-City of Dasmariñas,402106000,2024-10,1
-City of Dasmariñas,402106000,2025-02,4
-City of Dasmariñas,402106000,2025-06,4
-City of Dasmariñas,402106000,2025-07,1
-City of Dasmariñas,402106000,2025-09,2
-City of Davao,1130700000,2022-03,2
-City of Davao,1130700000,2022-04,6
-City of Davao,1130700000,2022-05,3
-City of Davao,1130700000,2022-06,2
-City of Davao,1130700000,2022-07,2
-City of Davao,1130700000,2022-08,3
-City of Davao,1130700000,2022-09,1
-City of Davao,1130700000,2022-11,1
-City of Davao,1130700000,2022-12,2
-City of Davao,1130700000,2023-01,1
-City of Davao,1130700000,2023-02,2
-City of Davao,1130700000,2023-04,1
-City of Davao,1130700000,2023-05,1
-City of Davao,1130700000,2023-06,3
-City of Davao,1130700000,2023-07,1
-City of Davao,1130700000,2023-09,5
-City of Davao,1130700000,2023-11,6
-City of Davao,1130700000,2023-12,3
-City of Davao,1130700000,2024-01,13
-City of Davao,1130700000,2024-02,9
-City of Davao,1130700000,2024-03,1
-City of Davao,1130700000,2024-05,2
-City of Davao,1130700000,2024-06,1
-City of Davao,1130700000,2024-07,5
-City of Davao,1130700000,2024-08,2
-City of Davao,1130700000,2024-09,5
-City of Davao,1130700000,2024-10,3
-City of Davao,1130700000,2024-12,3
-City of Davao,1130700000,2025-01,2
-City of Davao,1130700000,2025-05,5
-City of Davao,1130700000,2025-06,3
-City of Davao,1130700000,2025-07,1
-City of Davao,1130700000,2025-08,3
-City of Davao,1130700000,2025-09,3
-City of Davao,1130700000,2025-10,1
-City of Davao,1130700000,2025-11,2
-City of Digos,1102403000,2022-07,1
-City of Digos,1102403000,2023-06,2
-City of Digos,1102403000,2023-09,1
-City of Digos,1102403000,2024-12,1
-City of Dipolog,907202000,2022-03,4
-City of Dipolog,907202000,2023-01,4
-City of Dipolog,907202000,2024-11,3
-City of Dipolog,907202000,2025-05,3
-City of Dipolog,907202000,2025-11,1
-City of Dumaguete,704610000,2022-08,1
-City of Dumaguete,704610000,2022-10,1
-City of Dumaguete,704610000,2022-12,1
-City of Dumaguete,704610000,2023-07,2
-City of Dumaguete,704610000,2025-03,1
-City of Dumaguete,704610000,2025-11,2
-City of El Salvador,1004307000,2022-03,2
-City of El Salvador,1004307000,2022-12,4
-City of El Salvador,1004307000,2023-01,2
-City of El Salvador,1004307000,2025-11,1
-City of Escalante,604509000,2022-04,2
-City of Escalante,604509000,2023-01,2
-City of Escalante,604509000,2024-10,5
-City of Escalante,604509000,2024-12,1
-City of Escalante,604509000,2025-11,1
-City of Gapan,304908000,2022-09,2
-City of Gapan,304908000,2023-05,1
-City of General Santos,1230800000,2022-04,2
-City of General Santos,1230800000,2022-11,2
-City of General Santos,1230800000,2023-01,1
-City of General Santos,1230800000,2023-09,1
-City of General Santos,1230800000,2024-12,2
-City of General Santos,1230800000,2025-06,1
-City of General Santos,1230800000,2025-07,1
-City of General Santos,1230800000,2025-08,1
-City of General Santos,1230800000,2025-09,2
-City of General Trias,402108000,2022-10,2
-City of General Trias,402108000,2024-07,2
-City of General Trias,402108000,2024-10,1
-City of General Trias,402108000,2025-07,1
-City of Gingoog,1004308000,2022-12,4
-City of Gingoog,1004308000,2024-12,1
-City of Gingoog,1004308000,2025-11,1
-City of Guihulngan,704611000,2022-08,2
-City of Guihulngan,704611000,2022-10,2
-City of Guihulngan,704611000,2022-12,1
-City of Guihulngan,704611000,2023-01,2
-City of Guihulngan,704611000,2025-09,6
-City of Guihulngan,704611000,2025-11,5
-City of Himamaylan,604510000,2023-05,2
-City of Himamaylan,604510000,2023-08,3
-City of Himamaylan,604510000,2023-09,1
-City of Himamaylan,604510000,2024-09,3
-City of Himamaylan,604510000,2025-07,9
-City of Himamaylan,604510000,2025-11,6
-City of Ilagan,203114000,2022-08,2
-City of Ilagan,203114000,2022-10,4
-City of Ilagan,203114000,2022-11,3
-City of Ilagan,203114000,2023-01,1
-City of Ilagan,203114000,2023-07,1
-City of Ilagan,203114000,2023-08,1
-City of Ilagan,203114000,2024-01,1
-City of Ilagan,203114000,2024-03,3
-City of Ilagan,203114000,2024-07,1
-City of Ilagan,203114000,2024-08,1
-City of Ilagan,203114000,2024-09,1
-City of Ilagan,203114000,2024-10,4
-City of Ilagan,203114000,2024-11,11
-City of Ilagan,203114000,2025-08,2
-City of Ilagan,203114000,2025-10,1
-City of Ilagan,203114000,2025-11,4
-City of Iligan,1030900000,2022-03,3
-City of Iligan,1030900000,2022-07,3
-City of Iligan,1030900000,2022-12,6
-City of Iligan,1030900000,2023-11,3
-City of Iligan,1030900000,2024-08,1
-City of Iligan,1030900000,2024-11,1
-City of Iligan,1030900000,2025-08,1
-City of Iligan,1030900000,2025-09,4
-City of Iligan,1030900000,2025-11,5
-City of Iloilo,631000000,2022-04,7
-City of Iloilo,631000000,2022-07,1
-City of Iloilo,631000000,2022-10,3
-City of Iloilo,631000000,2023-05,5
-City of Iloilo,631000000,2023-06,2
-City of Iloilo,631000000,2023-07,7
-City of Iloilo,631000000,2023-08,4
-City of Iloilo,631000000,2024-03,2
-City of Iloilo,631000000,2024-06,2
-City of Iloilo,631000000,2024-07,7
-City of Iloilo,631000000,2024-08,1
-City of Iloilo,631000000,2024-09,7
-City of Iloilo,631000000,2024-10,2
-City of Iloilo,631000000,2024-11,1
-City of Iloilo,631000000,2025-05,4
-City of Iloilo,631000000,2025-07,21
-City of Iloilo,631000000,2025-09,10
-City of Iloilo,631000000,2025-10,4
-City of Iloilo,631000000,2025-11,2
-City of Iloilo,631000000,2025-12,1
-City of Imus,402109000,2022-10,1
-City of Imus,402109000,2024-07,5
-City of Imus,402109000,2024-09,1
-City of Imus,402109000,2025-06,3
-City of Imus,402109000,2025-07,4
-City of Imus,402109000,2025-08,1
-City of Imus,402109000,2025-09,1
-City of Iriga,501716000,2022-08,1
-City of Iriga,501716000,2024-10,6
-City of Iriga,501716000,2024-11,3
-City of Iriga,501716000,2025-06,1
-City of Iriga,501716000,2025-07,1
-City of Iriga,501716000,2025-11,2
-City of Isabela,990101000,2022-10,4
-City of Isabela,990101000,2022-11,3
-City of Isabela,990101000,2022-12,3
-City of Isabela,990101000,2023-01,2
-City of Isabela,990101000,2023-09,1
-City of Isabela,990101000,2024-06,1
-City of Isabela,990101000,2024-07,6
-City of Isabela,990101000,2024-09,2
-City of Isabela,990101000,2024-11,1
-City of Isabela,990101000,2025-05,9
-City of Isabela,990101000,2025-07,1
-City of Kabankalan,604515000,2022-10,3
-City of Kabankalan,604515000,2024-08,1
-City of Kabankalan,604515000,2024-09,8
-City of Kabankalan,604515000,2025-07,9
-City of Kabankalan,604515000,2025-08,4
-City of Kabankalan,604515000,2025-11,2
-City of Kidapawan,1204704000,2022-07,1
-City of Kidapawan,1204704000,2024-01,2
-City of Kidapawan,1204704000,2024-10,2
-City of Koronadal,1206306000,2022-05,1
-City of Koronadal,1206306000,2022-07,1
-City of Koronadal,1206306000,2023-01,2
-City of Koronadal,1206306000,2023-02,1
-City of Koronadal,1206306000,2023-05,5
-City of Koronadal,1206306000,2023-06,2
-City of Koronadal,1206306000,2023-09,3
-City of Koronadal,1206306000,2023-11,1
-City of Koronadal,1206306000,2025-01,2
-City of Koronadal,1206306000,2025-05,7
-City of Koronadal,1206306000,2025-06,1
-City of Koronadal,1206306000,2025-10,1
-City of La Carlota,604516000,2023-03,1
-City of La Carlota,604516000,2023-08,3
-City of La Carlota,604516000,2023-09,1
-City of La Carlota,604516000,2024-06,1
-City of La Carlota,604516000,2024-08,1
-City of La Carlota,604516000,2024-09,1
-City of La Carlota,604516000,2024-10,5
-City of La Carlota,604516000,2025-07,7
-City of La Carlota,604516000,2025-09,2
-City of La Carlota,604516000,2025-11,2
-City of Lamitan,1900702000,2022-12,3
-City of Lamitan,1900702000,2023-01,4
-City of Lamitan,1900702000,2024-07,4
-City of Lamitan,1900702000,2025-06,1
-City of Laoag,102812000,2022-08,3
-City of Laoag,102812000,2022-10,1
-City of Laoag,102812000,2023-07,4
-City of Laoag,102812000,2023-08,3
-City of Laoag,102812000,2024-07,2
-City of Laoag,102812000,2024-08,1
-City of Laoag,102812000,2024-09,4
-City of Laoag,102812000,2024-10,2
-City of Laoag,102812000,2025-10,1
-City of Lapu-Lapu,731100000,2022-04,5
-City of Lapu-Lapu,731100000,2022-08,5
-City of Lapu-Lapu,731100000,2022-09,1
-City of Lapu-Lapu,731100000,2024-04,2
-City of Lapu-Lapu,731100000,2024-07,2
-City of Lapu-Lapu,731100000,2024-10,1
-City of Lapu-Lapu,731100000,2024-11,2
-City of Lapu-Lapu,731100000,2024-12,1
-City of Lapu-Lapu,731100000,2025-07,5
-City of Lapu-Lapu,731100000,2025-08,3
-City of Lapu-Lapu,731100000,2025-11,4
-City of Lapu-Lapu,731100000,2025-12,1
-City of Las Piñas,1380200000,2022-09,2
-City of Las Piñas,1380200000,2022-10,4
-City of Las Piñas,1380200000,2023-07,2
-City of Las Piñas,1380200000,2024-07,4
-City of Las Piñas,1380200000,2024-09,5
-City of Las Piñas,1380200000,2024-10,1
-City of Las Piñas,1380200000,2025-07,13
-City of Las Piñas,1380200000,2025-08,3
-City of Las Piñas,1380200000,2025-09,4
-City of Legazpi,500506000,2022-07,1
-City of Legazpi,500506000,2022-08,1
-City of Legazpi,500506000,2022-10,1
-City of Legazpi,500506000,2023-02,1
-City of Legazpi,500506000,2023-10,1
-City of Legazpi,500506000,2024-10,6
-City of Legazpi,500506000,2024-11,6
-City of Legazpi,500506000,2024-12,1
-City of Legazpi,500506000,2025-01,4
-City of Legazpi,500506000,2025-02,1
-City of Legazpi,500506000,2025-07,6
-City of Legazpi,500506000,2025-11,3
-City of Legazpi,500506000,2025-12,3
-City of Ligao,500508000,2022-07,1
-City of Ligao,500508000,2022-10,3
-City of Ligao,500508000,2022-12,6
-City of Ligao,500508000,2023-01,2
-City of Ligao,500508000,2023-04,2
-City of Ligao,500508000,2023-10,2
-City of Ligao,500508000,2024-05,5
-City of Ligao,500508000,2024-07,2
-City of Ligao,500508000,2024-09,5
-City of Ligao,500508000,2024-10,5
-City of Ligao,500508000,2024-11,1
-City of Ligao,500508000,2024-12,1
-City of Ligao,500508000,2025-02,1
-City of Ligao,500508000,2025-03,2
-City of Ligao,500508000,2025-07,5
-City of Ligao,500508000,2025-08,3
-City of Ligao,500508000,2025-10,3
-City of Ligao,500508000,2025-11,12
-City of Lipa,401014000,2024-10,3
-City of Lucena,431200000,2022-06,1
-City of Lucena,431200000,2022-10,3
-City of Lucena,431200000,2022-11,1
-City of Lucena,431200000,2023-11,2
-City of Lucena,431200000,2024-03,1
-City of Lucena,431200000,2024-05,7
-City of Lucena,431200000,2025-07,1
-City of Lucena,431200000,2025-09,4
-City of Maasin,806407000,2023-01,4
-City of Maasin,806407000,2024-04,2
-City of Maasin,806407000,2024-10,1
-City of Maasin,806407000,2024-11,2
-City of Maasin,806407000,2025-04,1
-City of Maasin,806407000,2025-09,3
-City of Maasin,806407000,2025-11,4
-City of Makati,1380300000,2022-04,1
-City of Makati,1380300000,2022-07,2
-City of Makati,1380300000,2022-10,2
-City of Makati,1380300000,2022-11,1
-City of Makati,1380300000,2023-06,4
-City of Makati,1380300000,2023-07,3
-City of Makati,1380300000,2023-08,1
-City of Makati,1380300000,2023-09,1
-City of Makati,1380300000,2023-11,3
-City of Makati,1380300000,2023-12,1
-City of Makati,1380300000,2024-01,3
-City of Makati,1380300000,2024-04,1
-City of Makati,1380300000,2024-07,6
-City of Makati,1380300000,2024-09,4
-City of Makati,1380300000,2024-10,3
-City of Makati,1380300000,2024-12,1
-City of Makati,1380300000,2025-04,1
-City of Makati,1380300000,2025-06,1
-City of Makati,1380300000,2025-07,6
-City of Makati,1380300000,2025-08,4
-City of Makati,1380300000,2025-09,3
-City of Makati,1380300000,2025-10,1
-City of Makati,1380300000,2025-11,2
-City of Malabon,1380400000,2022-07,2
-City of Malabon,1380400000,2022-08,2
-City of Malabon,1380400000,2022-09,4
-City of Malabon,1380400000,2023-05,1
-City of Malabon,1380400000,2023-06,2
-City of Malabon,1380400000,2023-07,4
-City of Malabon,1380400000,2023-08,1
-City of Malabon,1380400000,2023-09,4
-City of Malabon,1380400000,2024-06,5
-City of Malabon,1380400000,2024-07,9
-City of Malabon,1380400000,2024-08,4
-City of Malabon,1380400000,2024-09,5
-City of Malabon,1380400000,2024-10,4
-City of Malabon,1380400000,2024-11,1
-City of Malabon,1380400000,2024-12,2
-City of Malabon,1380400000,2025-06,11
-City of Malabon,1380400000,2025-07,16
-City of Malabon,1380400000,2025-08,5
-City of Malabon,1380400000,2025-09,6
-City of Malabon,1380400000,2025-11,2
-City of Malaybalay,1001312000,2022-12,1
-City of Malaybalay,1001312000,2023-06,1
-City of Malaybalay,1001312000,2024-07,3
-City of Malaybalay,1001312000,2025-06,2
-City of Malaybalay,1001312000,2025-09,2
-City of Malolos,301410000,2022-07,4
-City of Malolos,301410000,2022-09,2
-City of Malolos,301410000,2022-10,2
-City of Malolos,301410000,2022-11,2
-City of Malolos,301410000,2023-07,5
-City of Malolos,301410000,2023-08,5
-City of Malolos,301410000,2023-09,3
-City of Malolos,301410000,2024-05,2
-City of Malolos,301410000,2024-07,2
-City of Malolos,301410000,2024-09,3
-City of Malolos,301410000,2024-10,4
-City of Malolos,301410000,2024-11,3
-City of Malolos,301410000,2025-06,2
-City of Malolos,301410000,2025-07,4
-City of Malolos,301410000,2025-08,3
-City of Malolos,301410000,2025-09,1
-City of Malolos,301410000,2025-11,3
-City of Mandaluyong,1380500000,2022-05,1
-City of Mandaluyong,1380500000,2022-07,2
-City of Mandaluyong,1380500000,2022-08,3
-City of Mandaluyong,1380500000,2022-09,6
-City of Mandaluyong,1380500000,2022-10,4
-City of Mandaluyong,1380500000,2022-12,1
-City of Mandaluyong,1380500000,2023-01,2
-City of Mandaluyong,1380500000,2023-04,2
-City of Mandaluyong,1380500000,2023-07,4
-City of Mandaluyong,1380500000,2023-08,6
-City of Mandaluyong,1380500000,2023-09,5
-City of Mandaluyong,1380500000,2024-02,2
-City of Mandaluyong,1380500000,2024-05,3
-City of Mandaluyong,1380500000,2024-06,1
-City of Mandaluyong,1380500000,2024-07,6
-City of Mandaluyong,1380500000,2024-08,2
-City of Mandaluyong,1380500000,2024-09,6
-City of Mandaluyong,1380500000,2024-10,6
-City of Mandaluyong,1380500000,2024-11,1
-City of Mandaluyong,1380500000,2024-12,1
-City of Mandaluyong,1380500000,2025-06,7
-City of Mandaluyong,1380500000,2025-07,12
-City of Mandaluyong,1380500000,2025-08,11
-City of Mandaluyong,1380500000,2025-09,14
-City of Mandaluyong,1380500000,2025-10,3
-City of Mandaluyong,1380500000,2025-11,5
-City of Mandaue,731300000,2022-04,1
-City of Mandaue,731300000,2022-08,8
-City of Mandaue,731300000,2022-09,3
-City of Mandaue,731300000,2022-10,2
-City of Mandaue,731300000,2022-12,2
-City of Mandaue,731300000,2023-05,1
-City of Mandaue,731300000,2023-09,6
-City of Mandaue,731300000,2023-10,1
-City of Mandaue,731300000,2024-06,2
-City of Mandaue,731300000,2024-07,6
-City of Mandaue,731300000,2024-08,4
-City of Mandaue,731300000,2024-09,1
-City of Mandaue,731300000,2024-10,1
-City of Mandaue,731300000,2024-11,4
-City of Mandaue,731300000,2024-12,1
-City of Mandaue,731300000,2025-01,3
-City of Mandaue,731300000,2025-02,3
-City of Mandaue,731300000,2025-06,2
-City of Mandaue,731300000,2025-07,7
-City of Mandaue,731300000,2025-08,9
-City of Mandaue,731300000,2025-09,2
-City of Mandaue,731300000,2025-10,5
-City of Mandaue,731300000,2025-11,15
-City of Manila,1380600000,2022-01,1
-City of Manila,1380600000,2022-02,4
-City of Manila,1380600000,2022-03,3
-City of Manila,1380600000,2022-04,3
-City of Manila,1380600000,2022-06,4
-City of Manila,1380600000,2022-07,2
-City of Manila,1380600000,2022-08,13
-City of Manila,1380600000,2022-09,8
-City of Manila,1380600000,2022-10,8
-City of Manila,1380600000,2022-11,1
-City of Manila,1380600000,2022-12,5
-City of Manila,1380600000,2023-01,3
-City of Manila,1380600000,2023-04,2
-City of Manila,1380600000,2023-05,7
-City of Manila,1380600000,2023-06,2
-City of Manila,1380600000,2023-07,5
-City of Manila,1380600000,2023-08,5
-City of Manila,1380600000,2023-09,6
-City of Manila,1380600000,2023-10,1
-City of Manila,1380600000,2023-12,2
-City of Manila,1380600000,2024-02,2
-City of Manila,1380600000,2024-03,7
-City of Manila,1380600000,2024-05,7
-City of Manila,1380600000,2024-07,14
-City of Manila,1380600000,2024-08,7
-City of Manila,1380600000,2024-09,6
-City of Manila,1380600000,2024-10,9
-City of Manila,1380600000,2024-11,6
-City of Manila,1380600000,2024-12,1
-City of Manila,1380600000,2025-01,1
-City of Manila,1380600000,2025-02,1
-City of Manila,1380600000,2025-03,5
-City of Manila,1380600000,2025-04,3
-City of Manila,1380600000,2025-05,6
-City of Manila,1380600000,2025-06,6
-City of Manila,1380600000,2025-07,22
-City of Manila,1380600000,2025-08,12
-City of Manila,1380600000,2025-09,11
-City of Manila,1380600000,2025-10,5
-City of Manila,1380600000,2025-11,9
-City of Manila,1380600000,2025-12,2
-City of Marikina,1380700000,2022-04,2
-City of Marikina,1380700000,2022-06,2
-City of Marikina,1380700000,2022-07,2
-City of Marikina,1380700000,2022-08,1
-City of Marikina,1380700000,2022-09,4
-City of Marikina,1380700000,2022-12,1
-City of Marikina,1380700000,2023-01,1
-City of Marikina,1380700000,2023-07,5
-City of Marikina,1380700000,2023-08,4
-City of Marikina,1380700000,2023-09,2
-City of Marikina,1380700000,2024-06,2
-City of Marikina,1380700000,2024-07,9
-City of Marikina,1380700000,2024-08,4
-City of Marikina,1380700000,2024-09,6
-City of Marikina,1380700000,2024-10,5
-City of Marikina,1380700000,2025-03,2
-City of Marikina,1380700000,2025-05,1
-City of Marikina,1380700000,2025-06,1
-City of Marikina,1380700000,2025-07,10
-City of Marikina,1380700000,2025-08,7
-City of Marikina,1380700000,2025-09,3
-City of Marikina,1380700000,2025-10,4
-City of Masbate,504111000,2023-11,2
-City of Masbate,504111000,2024-07,1
-City of Masbate,504111000,2024-10,3
-City of Masbate,504111000,2024-12,1
-City of Masbate,504111000,2025-09,5
-City of Masbate,504111000,2025-11,1
-City of Mati,1102509000,2022-07,1
-City of Mati,1102509000,2022-12,1
-City of Mati,1102509000,2024-01,8
-City of Mati,1102509000,2024-02,3
-City of Mati,1102509000,2024-12,3
-City of Mati,1102509000,2025-09,2
-City of Mati,1102509000,2025-11,1
-City of Meycauayan,301412000,2022-07,4
-City of Meycauayan,301412000,2022-09,2
-City of Meycauayan,301412000,2023-06,2
-City of Meycauayan,301412000,2023-07,5
-City of Meycauayan,301412000,2023-08,5
-City of Meycauayan,301412000,2023-10,1
-City of Meycauayan,301412000,2023-11,2
-City of Meycauayan,301412000,2023-12,1
-City of Meycauayan,301412000,2024-05,1
-City of Meycauayan,301412000,2024-07,5
-City of Meycauayan,301412000,2024-09,6
-City of Meycauayan,301412000,2024-10,4
-City of Meycauayan,301412000,2024-11,1
-City of Meycauayan,301412000,2025-06,2
-City of Meycauayan,301412000,2025-07,5
-City of Meycauayan,301412000,2025-08,2
-City of Meycauayan,301412000,2025-09,4
-City of Meycauayan,301412000,2025-11,3
-City of Meycauayan,301412000,2025-12,1
-City of Muntinlupa,1380800000,2022-08,2
-City of Muntinlupa,1380800000,2022-09,2
-City of Muntinlupa,1380800000,2022-10,4
-City of Muntinlupa,1380800000,2022-11,1
-City of Muntinlupa,1380800000,2022-12,2
-City of Muntinlupa,1380800000,2023-01,1
-City of Muntinlupa,1380800000,2023-07,6
-City of Muntinlupa,1380800000,2024-07,5
-City of Muntinlupa,1380800000,2024-08,2
-City of Muntinlupa,1380800000,2024-09,2
-City of Muntinlupa,1380800000,2024-10,2
-City of Muntinlupa,1380800000,2025-07,10
-City of Muntinlupa,1380800000,2025-08,1
-City of Muntinlupa,1380800000,2025-09,5
-City of Naga,501724000,2022-08,1
-City of Naga,501724000,2022-12,9
-City of Naga,501724000,2023-04,3
-City of Naga,501724000,2023-10,5
-City of Naga,501724000,2023-11,1
-City of Naga,501724000,2024-06,7
-City of Naga,501724000,2024-08,2
-City of Naga,501724000,2024-09,6
-City of Naga,501724000,2024-10,7
-City of Naga,501724000,2024-11,3
-City of Naga,501724000,2025-03,1
-City of Naga,501724000,2025-04,2
-City of Naga,501724000,2025-06,1
-City of Naga,501724000,2025-08,1
-City of Naga,501724000,2025-09,3
-City of Naga,501724000,2025-11,7
-City of Naga,702234000,2022-01,2
-City of Naga,702234000,2022-08,2
-City of Naga,702234000,2023-05,1
-City of Naga,702234000,2024-08,1
-City of Naga,702234000,2024-09,4
-City of Naga,702234000,2024-10,6
-City of Naga,702234000,2025-06,2
-City of Naga,702234000,2025-11,3
-City of Navotas,1380900000,2022-09,5
-City of Navotas,1380900000,2023-04,1
-City of Navotas,1380900000,2023-07,1
-City of Navotas,1380900000,2024-06,2
-City of Navotas,1380900000,2024-07,6
-City of Navotas,1380900000,2024-08,3
-City of Navotas,1380900000,2024-09,3
-City of Navotas,1380900000,2024-10,3
-City of Navotas,1380900000,2024-11,6
-City of Navotas,1380900000,2024-12,1
-City of Navotas,1380900000,2025-06,4
-City of Navotas,1380900000,2025-07,11
-City of Navotas,1380900000,2025-08,2
-City of Navotas,1380900000,2025-09,2
-City of Navotas,1380900000,2025-11,4
-City of Olongapo,331400000,2023-01,4
-City of Olongapo,331400000,2023-07,5
-City of Olongapo,331400000,2023-08,1
-City of Olongapo,331400000,2023-09,1
-City of Olongapo,331400000,2024-07,2
-City of Olongapo,331400000,2025-07,6
-City of Olongapo,331400000,2025-10,3
-City of Olongapo,331400000,2025-11,1
-City of Oroquieta,1004209000,2022-12,4
-City of Oroquieta,1004209000,2023-01,3
-City of Oroquieta,1004209000,2023-11,3
-City of Oroquieta,1004209000,2024-11,1
-City of Oroquieta,1004209000,2024-12,1
-City of Ozamiz,1004210000,2022-12,1
-City of Ozamiz,1004210000,2023-01,3
-City of Ozamiz,1004210000,2023-11,3
-City of Ozamiz,1004210000,2024-12,3
-City of Ozamiz,1004210000,2025-03,1
-City of Pagadian,907322000,2022-07,1
-City of Pagadian,907322000,2023-07,2
-City of Panabo,1102315000,2022-04,3
-City of Panabo,1102315000,2022-05,1
-City of Panabo,1102315000,2024-01,6
-City of Panabo,1102315000,2024-02,2
-City of Panabo,1102315000,2024-12,2
-City of Panabo,1102315000,2025-01,2
-City of Parañaque,1381000000,2022-05,1
-City of Parañaque,1381000000,2022-08,2
-City of Parañaque,1381000000,2022-09,2
-City of Parañaque,1381000000,2022-10,4
-City of Parañaque,1381000000,2023-03,2
-City of Parañaque,1381000000,2023-07,4
-City of Parañaque,1381000000,2023-09,2
-City of Parañaque,1381000000,2024-02,2
-City of Parañaque,1381000000,2024-03,1
-City of Parañaque,1381000000,2024-07,5
-City of Parañaque,1381000000,2024-08,1
-City of Parañaque,1381000000,2024-09,5
-City of Parañaque,1381000000,2024-10,1
-City of Parañaque,1381000000,2025-05,3
-City of Parañaque,1381000000,2025-07,9
-City of Parañaque,1381000000,2025-08,8
-City of Parañaque,1381000000,2025-09,8
-City of Parañaque,1381000000,2025-10,1
-City of Parañaque,1381000000,2025-11,3
-City of Pasig,1381200000,2022-02,2
-City of Pasig,1381200000,2022-09,1
-City of Pasig,1381200000,2022-10,1
-City of Pasig,1381200000,2022-12,1
-City of Pasig,1381200000,2023-04,1
-City of Pasig,1381200000,2023-07,6
-City of Pasig,1381200000,2024-07,9
-City of Pasig,1381200000,2024-08,2
-City of Pasig,1381200000,2024-09,4
-City of Pasig,1381200000,2024-10,2
-City of Pasig,1381200000,2025-06,3
-City of Pasig,1381200000,2025-07,13
-City of Pasig,1381200000,2025-08,7
-City of Pasig,1381200000,2025-09,5
-City of Pasig,1381200000,2025-10,3
-City of Pasig,1381200000,2025-11,2
-City of Passi,603035000,2022-04,4
-City of Passi,603035000,2022-10,8
-City of Passi,603035000,2023-05,2
-City of Passi,603035000,2023-08,1
-City of Passi,603035000,2025-06,1
-City of Passi,603035000,2025-09,1
-City of Passi,603035000,2025-11,3
-City of Puerto Princesa,1731500000,2022-03,1
-City of Puerto Princesa,1731500000,2022-10,6
-City of Puerto Princesa,1731500000,2022-11,1
-City of Puerto Princesa,1731500000,2022-12,1
-City of Puerto Princesa,1731500000,2023-07,3
-City of Puerto Princesa,1731500000,2023-12,2
-City of Puerto Princesa,1731500000,2024-09,7
-City of Puerto Princesa,1731500000,2024-10,1
-City of Puerto Princesa,1731500000,2024-12,4
-City of Puerto Princesa,1731500000,2025-02,11
-City of Puerto Princesa,1731500000,2025-06,1
-City of Puerto Princesa,1731500000,2025-07,7
-City of Puerto Princesa,1731500000,2025-08,2
-City of Puerto Princesa,1731500000,2025-10,1
-City of Puerto Princesa,1731500000,2025-11,3
-City of Roxas,601914000,2022-04,7
-City of Roxas,601914000,2022-10,1
-City of Roxas,601914000,2023-02,2
-City of Roxas,601914000,2023-05,1
-City of Roxas,601914000,2024-08,1
-City of Roxas,601914000,2024-09,2
-City of Roxas,601914000,2024-10,2
-City of Roxas,601914000,2025-08,2
-City of Roxas,601914000,2025-10,5
-City of Roxas,601914000,2025-11,5
-City of Sagay,604523000,2022-04,1
-City of Sagay,604523000,2023-01,2
-City of Sagay,604523000,2023-07,3
-City of Sagay,604523000,2024-10,7
-City of Sagay,604523000,2024-12,2
-City of Sagay,604523000,2025-07,7
-City of Sagay,604523000,2025-08,2
-City of Sagay,604523000,2025-11,6
-City of San Carlos,105532000,2024-09,1
-City of San Carlos,105532000,2025-02,1
-City of San Carlos,105532000,2025-07,5
-City of San Carlos,105532000,2025-08,2
-City of San Carlos,105532000,2025-11,2
-City of San Carlos,604524000,2022-10,4
-City of San Carlos,604524000,2023-05,3
-City of San Carlos,604524000,2023-08,3
-City of San Carlos,604524000,2023-09,1
-City of San Carlos,604524000,2024-11,1
-City of San Carlos,604524000,2025-02,1
-City of San Carlos,604524000,2025-05,1
-City of San Carlos,604524000,2025-07,7
-City of San Carlos,604524000,2025-09,2
-City of San Carlos,604524000,2025-11,8
-City of San Fernando,103314000,2023-07,1
-City of San Fernando,103314000,2024-07,4
-City of San Fernando,103314000,2024-09,3
-City of San Fernando,103314000,2024-10,2
-City of San Fernando,103314000,2025-07,7
-City of San Fernando,103314000,2025-09,1
-City of San Fernando,305416000,2022-08,2
-City of San Fernando,305416000,2023-07,2
-City of San Fernando,305416000,2023-08,1
-City of San Fernando,305416000,2023-12,2
-City of San Fernando,305416000,2024-07,8
-City of San Fernando,305416000,2024-08,3
-City of San Fernando,305416000,2024-09,2
-City of San Fernando,305416000,2024-10,2
-City of San Fernando,305416000,2024-11,3
-City of San Fernando,305416000,2025-06,1
-City of San Fernando,305416000,2025-07,1
-City of San Fernando,305416000,2025-08,2
-City of San Fernando,305416000,2025-09,6
-City of San Fernando,305416000,2025-10,1
-City of San Jose Del Monte,301420000,2022-09,2
-City of San Jose Del Monte,301420000,2022-10,3
-City of San Jose Del Monte,301420000,2023-07,3
-City of San Jose Del Monte,301420000,2023-08,3
-City of San Jose Del Monte,301420000,2024-07,3
-City of San Jose Del Monte,301420000,2024-09,1
-City of San Jose Del Monte,301420000,2024-10,1
-City of San Jose Del Monte,301420000,2025-04,1
-City of San Jose Del Monte,301420000,2025-06,4
-City of San Jose Del Monte,301420000,2025-07,4
-City of San Jose Del Monte,301420000,2025-08,1
-City of San Jose Del Monte,301420000,2025-11,2
-City of San Juan,1381400000,2022-10,1
-City of San Juan,1381400000,2023-07,1
-City of San Juan,1381400000,2023-09,1
-City of San Juan,1381400000,2024-07,3
-City of San Juan,1381400000,2024-08,1
-City of San Juan,1381400000,2025-07,11
-City of San Juan,1381400000,2025-09,2
-City of San Pablo,403424000,2022-10,2
-City of San Pablo,403424000,2022-11,1
-City of San Pablo,403424000,2025-04,1
-City of San Pablo,403424000,2025-07,1
-City of San Pablo,403424000,2025-11,3
-City of San Pablo,403424000,2025-12,3
-City of San Pedro,403425000,2022-10,3
-City of San Pedro,403425000,2022-11,3
-City of San Pedro,403425000,2023-01,1
-City of San Pedro,403425000,2023-03,1
-City of San Pedro,403425000,2023-12,1
-City of San Pedro,403425000,2024-01,1
-City of San Pedro,403425000,2024-07,1
-City of San Pedro,403425000,2024-09,5
-City of San Pedro,403425000,2024-10,2
-City of San Pedro,403425000,2025-02,3
-City of San Pedro,403425000,2025-07,5
-City of San Pedro,403425000,2025-08,2
-City of San Pedro,403425000,2025-11,3
-City of Santa Rosa,403428000,2022-10,5
-City of Santa Rosa,403428000,2022-11,4
-City of Santa Rosa,403428000,2023-01,1
-City of Santa Rosa,403428000,2024-10,1
-City of Santa Rosa,403428000,2025-07,1
-City of Santa Rosa,403428000,2025-11,1
-City of Santiago,203135000,2022-07,1
-City of Santiago,203135000,2022-08,2
-City of Santiago,203135000,2022-10,5
-City of Santiago,203135000,2023-01,1
-City of Santiago,203135000,2024-09,1
-City of Santiago,203135000,2024-11,3
-City of Santiago,203135000,2025-08,1
-City of Santiago,203135000,2025-09,3
-City of Santiago,203135000,2025-10,1
-City of Santiago,203135000,2025-11,3
-City of Silay,604526000,2022-01,2
-City of Silay,604526000,2022-04,2
-City of Silay,604526000,2023-07,4
-City of Silay,604526000,2023-08,3
-City of Silay,604526000,2023-09,1
-City of Silay,604526000,2024-10,5
-City of Silay,604526000,2024-12,7
-City of Silay,604526000,2025-07,1
-City of Silay,604526000,2025-09,1
-City of Silay,604526000,2025-11,2
-City of Sipalay,604527000,2022-09,1
-City of Sipalay,604527000,2022-10,4
-City of Sipalay,604527000,2023-07,4
-City of Sipalay,604527000,2024-09,7
-City of Sipalay,604527000,2024-10,5
-City of Sipalay,604527000,2025-07,7
-City of Sipalay,604527000,2025-08,3
-City of Sipalay,604527000,2025-11,5
-City of Sorsogon,506216000,2023-01,4
-City of Sorsogon,506216000,2024-10,5
-City of Sorsogon,506216000,2024-11,1
-City of Sorsogon,506216000,2024-12,2
-City of Sorsogon,506216000,2025-01,1
-City of Sorsogon,506216000,2025-11,3
-City of Sorsogon,506216000,2025-12,1
-City of Sto. Tomas,401028000,2022-10,1
-City of Sto. Tomas,401028000,2023-08,1
-City of Sto. Tomas,401028000,2024-10,1
-City of Sto. Tomas,401028000,2025-07,1
-City of Surigao,1606724000,2022-01,2
-City of Surigao,1606724000,2022-12,1
-City of Surigao,1606724000,2025-03,1
-City of Surigao,1606724000,2025-11,1
-City of Tabaco,500517000,2024-10,4
-City of Tabaco,500517000,2025-01,2
-City of Tabaco,500517000,2025-02,1
-City of Tabaco,500517000,2025-11,1
-City of Tabuk,1403213000,2022-07,4
-City of Tabuk,1403213000,2022-08,2
-City of Tabuk,1403213000,2022-09,2
-City of Tabuk,1403213000,2022-11,1
-City of Tabuk,1403213000,2023-09,1
-City of Tabuk,1403213000,2024-09,1
-City of Tabuk,1403213000,2025-09,3
-City of Tabuk,1403213000,2025-11,7
-City of Tacloban,831600000,2022-04,2
-City of Tacloban,831600000,2023-01,4
-City of Tacloban,831600000,2025-02,3
-City of Tacloban,831600000,2025-03,1
-City of Tacloban,831600000,2025-09,5
-City of Tacloban,831600000,2025-11,1
-City of Tacurong,1206511000,2022-05,2
-City of Tacurong,1206511000,2023-06,2
-City of Tacurong,1206511000,2024-12,1
-City of Tacurong,1206511000,2025-09,2
-City of Tacurong,1206511000,2025-10,1
-City of Tagaytay,402119000,2024-07,1
-City of Tagaytay,402119000,2025-09,1
-City of Tagaytay,402119000,2025-10,3
-City of Tagbilaran,701242000,2023-02,1
-City of Tagbilaran,701242000,2024-10,2
-City of Tagbilaran,701242000,2025-07,3
-City of Tagbilaran,701242000,2025-11,6
-City of Taguig,1381500000,2022-01,7
-City of Taguig,1381500000,2022-03,2
-City of Taguig,1381500000,2022-07,3
-City of Taguig,1381500000,2022-09,1
-City of Taguig,1381500000,2022-10,3
-City of Taguig,1381500000,2022-11,1
-City of Taguig,1381500000,2023-05,2
-City of Taguig,1381500000,2023-07,3
-City of Taguig,1381500000,2023-11,1
-City of Taguig,1381500000,2024-05,1
-City of Taguig,1381500000,2024-07,7
-City of Taguig,1381500000,2024-09,3
-City of Taguig,1381500000,2024-10,4
-City of Taguig,1381500000,2024-12,1
-City of Taguig,1381500000,2025-06,2
-City of Taguig,1381500000,2025-07,5
-City of Taguig,1381500000,2025-08,4
-City of Taguig,1381500000,2025-09,3
-City of Taguig,1381500000,2025-10,1
-City of Taguig,1381500000,2025-11,7
-City of Taguig,1381500000,2025-12,1
-City of Tagum,1102319000,2022-01,7
-City of Tagum,1102319000,2022-03,1
-City of Tagum,1102319000,2023-01,5
-City of Tagum,1102319000,2023-08,2
-City of Tagum,1102319000,2024-01,8
-City of Tagum,1102319000,2024-02,6
-City of Tagum,1102319000,2025-10,1
-City of Talisay,604528000,2022-04,2
-City of Talisay,604528000,2023-01,3
-City of Talisay,604528000,2023-08,3
-City of Talisay,604528000,2023-09,1
-City of Talisay,604528000,2024-07,2
-City of Talisay,604528000,2024-08,1
-City of Talisay,604528000,2025-06,1
-City of Talisay,604528000,2025-07,9
-City of Talisay,604528000,2025-09,1
-City of Talisay,604528000,2025-10,1
-City of Talisay,604528000,2025-11,5
-City of Talisay,702250000,2022-07,4
-City of Talisay,702250000,2022-08,1
-City of Talisay,702250000,2022-09,1
-City of Talisay,702250000,2022-12,1
-City of Talisay,702250000,2023-09,2
-City of Talisay,702250000,2023-10,4
-City of Talisay,702250000,2023-11,2
-City of Talisay,702250000,2024-05,1
-City of Talisay,702250000,2024-07,4
-City of Talisay,702250000,2024-09,1
-City of Talisay,702250000,2024-10,5
-City of Talisay,702250000,2024-11,6
-City of Talisay,702250000,2025-01,3
-City of Talisay,702250000,2025-02,4
-City of Talisay,702250000,2025-04,1
-City of Talisay,702250000,2025-05,2
-City of Talisay,702250000,2025-07,9
-City of Talisay,702250000,2025-08,6
-City of Talisay,702250000,2025-09,2
-City of Talisay,702250000,2025-10,4
-City of Talisay,702250000,2025-11,11
-City of Tanauan,401031000,2024-07,1
-City of Tanauan,401031000,2024-10,3
-City of Tanauan,401031000,2025-07,2
-City of Tanauan,401031000,2025-08,2
-City of Tandag,1606819000,2022-12,4
-City of Tandag,1606819000,2024-06,2
-City of Tangub,1004215000,2023-08,2
-City of Tanjay,704621000,2023-01,2
-City of Tarlac,306916000,2022-09,2
-City of Tarlac,306916000,2023-07,1
-City of Tarlac,306916000,2025-07,5
-City of Tarlac,306916000,2025-09,3
-City of Tarlac,306916000,2025-10,2
-City of Tayabas,405647000,2024-10,1
-City of Toledo,702251000,2022-08,5
-City of Toledo,702251000,2024-11,2
-City of Toledo,702251000,2025-07,6
-City of Toledo,702251000,2025-11,6
-City of Trece Martires,402122000,2022-10,5
-City of Trece Martires,402122000,2022-11,2
-City of Trece Martires,402122000,2022-12,1
-City of Trece Martires,402122000,2023-07,1
-City of Trece Martires,402122000,2023-08,2
-City of Trece Martires,402122000,2024-04,2
-City of Trece Martires,402122000,2024-07,8
-City of Trece Martires,402122000,2024-09,4
-City of Trece Martires,402122000,2025-07,5
-City of Trece Martires,402122000,2025-09,5
-City of Trece Martires,402122000,2025-11,2
-City of Urdaneta,105546000,2024-07,2
-City of Urdaneta,105546000,2025-09,4
-City of Valencia,1001321000,2022-04,2
-City of Valencia,1001321000,2022-08,1
-City of Valencia,1001321000,2023-06,1
-City of Valencia,1001321000,2024-07,3
-City of Valencia,1001321000,2024-09,1
-City of Valencia,1001321000,2024-10,2
-City of Valencia,1001321000,2024-11,1
-City of Valencia,1001321000,2024-12,1
-City of Valencia,1001321000,2025-02,1
-City of Valencia,1001321000,2025-09,5
-City of Valenzuela,1381600000,2022-06,2
-City of Valenzuela,1381600000,2022-07,3
-City of Valenzuela,1381600000,2022-08,4
-City of Valenzuela,1381600000,2022-09,3
-City of Valenzuela,1381600000,2022-10,2
-City of Valenzuela,1381600000,2022-12,1
-City of Valenzuela,1381600000,2023-01,1
-City of Valenzuela,1381600000,2023-04,2
-City of Valenzuela,1381600000,2023-05,1
-City of Valenzuela,1381600000,2023-06,3
-City of Valenzuela,1381600000,2023-07,9
-City of Valenzuela,1381600000,2023-08,2
-City of Valenzuela,1381600000,2023-09,3
-City of Valenzuela,1381600000,2024-07,10
-City of Valenzuela,1381600000,2024-08,2
-City of Valenzuela,1381600000,2024-09,5
-City of Valenzuela,1381600000,2024-10,4
-City of Valenzuela,1381600000,2025-01,1
-City of Valenzuela,1381600000,2025-06,1
-City of Valenzuela,1381600000,2025-07,14
-City of Valenzuela,1381600000,2025-08,6
-City of Valenzuela,1381600000,2025-09,3
-City of Valenzuela,1381600000,2025-11,1
-City of Victorias,604531000,2022-04,2
-City of Victorias,604531000,2023-12,1
-City of Victorias,604531000,2024-12,8
-City of Vigan,102934000,2022-08,2
-City of Vigan,102934000,2023-07,3
-City of Vigan,102934000,2023-08,2
-City of Vigan,102934000,2024-07,2
-City of Vigan,102934000,2025-07,6
-City of Vigan,102934000,2025-08,1
-City of Zamboanga,931700000,2022-04,6
-City of Zamboanga,931700000,2022-05,5
-City of Zamboanga,931700000,2022-07,1
-City of Zamboanga,931700000,2022-08,2
-City of Zamboanga,931700000,2022-10,4
-City of Zamboanga,931700000,2022-12,8
-City of Zamboanga,931700000,2023-01,12
-City of Zamboanga,931700000,2023-02,1
-City of Zamboanga,931700000,2023-08,4
-City of Zamboanga,931700000,2023-09,1
-City of Zamboanga,931700000,2024-07,10
-City of Zamboanga,931700000,2024-08,1
-City of Zamboanga,931700000,2024-09,4
-City of Zamboanga,931700000,2024-10,5
-City of Zamboanga,931700000,2025-06,8
-City of Zamboanga,931700000,2025-07,6
-City of Zamboanga,931700000,2025-08,2
-City of Zamboanga,931700000,2025-09,3
-City of Zamboanga,931700000,2025-10,3
-City of Zamboanga,931700000,2025-11,7
-City of Zamboanga,931700000,2025-12,6
-Danao City,702223000,2022-12,2
-Danao City,702223000,2024-09,1
-Danao City,702223000,2024-11,3
-Danao City,702223000,2025-11,2
-Island Garden City of Samal,1102317000,2023-07,4
-Island Garden City of Samal,1102317000,2024-01,5
-Island Garden City of Samal,1102317000,2025-07,2
-Island Garden City of Samal,1102317000,2025-08,2
-Mabalacat City,305409000,2024-07,2
-Mabalacat City,305409000,2025-10,1
-Ormoc City,803738000,2022-04,1
-Ormoc City,803738000,2022-07,1
-Ormoc City,803738000,2022-10,6
-Ormoc City,803738000,2023-01,2
-Ormoc City,803738000,2023-02,7
-Ormoc City,803738000,2024-07,3
-Ormoc City,803738000,2024-10,2
-Ormoc City,803738000,2024-11,1
-Ormoc City,803738000,2025-09,5
-Ormoc City,803738000,2025-10,2
-Pasay City,1381100000,2022-07,1
-Pasay City,1381100000,2022-09,1
-Pasay City,1381100000,2023-02,1
-Pasay City,1381100000,2023-07,2
-Pasay City,1381100000,2023-08,4
-Pasay City,1381100000,2023-09,5
-Pasay City,1381100000,2024-07,7
-Pasay City,1381100000,2024-08,3
-Pasay City,1381100000,2024-09,3
-Pasay City,1381100000,2025-03,1
-Pasay City,1381100000,2025-04,1
-Pasay City,1381100000,2025-06,1
-Pasay City,1381100000,2025-07,7
-Pasay City,1381100000,2025-08,4
-Pasay City,1381100000,2025-09,2
-Quezon City,1381300000,2022-04,2
-Quezon City,1381300000,2022-05,2
-Quezon City,1381300000,2022-06,1
-Quezon City,1381300000,2022-07,4
-Quezon City,1381300000,2022-08,4
-Quezon City,1381300000,2022-09,5
-Quezon City,1381300000,2022-10,3
-Quezon City,1381300000,2023-01,1
-Quezon City,1381300000,2023-04,2
-Quezon City,1381300000,2023-06,4
-Quezon City,1381300000,2023-07,3
-Quezon City,1381300000,2023-08,5
-Quezon City,1381300000,2023-09,7
-Quezon City,1381300000,2023-12,1
-Quezon City,1381300000,2024-02,3
-Quezon City,1381300000,2024-03,1
-Quezon City,1381300000,2024-05,5
-Quezon City,1381300000,2024-06,1
-Quezon City,1381300000,2024-07,12
-Quezon City,1381300000,2024-08,8
-Quezon City,1381300000,2024-09,9
-Quezon City,1381300000,2024-10,8
-Quezon City,1381300000,2024-12,2
-Quezon City,1381300000,2025-02,1
-Quezon City,1381300000,2025-03,3
-Quezon City,1381300000,2025-04,1
-Quezon City,1381300000,2025-05,2
-Quezon City,1381300000,2025-06,10
-Quezon City,1381300000,2025-07,21
-Quezon City,1381300000,2025-08,8
-Quezon City,1381300000,2025-09,14
-Quezon City,1381300000,2025-10,11
-Quezon City,1381300000,2025-11,7
-San Jose City,304926000,2024-07,3
-San Jose City,304926000,2025-02,3
-San Jose City,304926000,2025-07,1
-Science City of Muñoz,304917000,2024-07,1
-Science City of Muñoz,304917000,2025-08,1
-Tuguegarao City,201529000,2022-08,3
-Tuguegarao City,201529000,2022-10,5
-Tuguegarao City,201529000,2022-11,2
-Tuguegarao City,201529000,2023-01,1
-Tuguegarao City,201529000,2023-07,1
-Tuguegarao City,201529000,2023-08,4
-Tuguegarao City,201529000,2024-03,1
-Tuguegarao City,201529000,2024-10,7
-Tuguegarao City,201529000,2024-11,7
-Tuguegarao City,201529000,2024-12,3
-Tuguegarao City,201529000,2025-07,1
-Tuguegarao City,201529000,2025-09,3
-Tuguegarao City,201529000,2025-10,5
-Tuguegarao City,201529000,2025-11,17
-Tuguegarao City,201529000,2025-12,1
+psgc,month_year,reported_active_flood_days
+102805000,2022-01,2
+102805000,2022-08,3
+102805000,2022-10,5
+102805000,2023-06,2
+102805000,2023-07,5
+102805000,2023-08,6
+102805000,2024-02,2
+102805000,2024-07,7
+102805000,2024-09,5
+102805000,2024-10,4
+102805000,2024-11,2
+102805000,2025-02,2
+102805000,2025-07,3
+102805000,2025-09,5
+102805000,2025-11,2
+102812000,2022-01,2
+102812000,2022-08,3
+102812000,2022-10,5
+102812000,2023-06,2
+102812000,2023-07,6
+102812000,2023-08,6
+102812000,2024-02,2
+102812000,2024-07,8
+102812000,2024-08,1
+102812000,2024-09,5
+102812000,2024-10,4
+102812000,2024-11,2
+102812000,2025-02,2
+102812000,2025-07,3
+102812000,2025-09,5
+102812000,2025-10,1
+102812000,2025-11,2
+102906000,2022-01,2
+102906000,2023-07,6
+102906000,2023-08,5
+102906000,2024-07,2
+102906000,2024-10,6
+102906000,2025-01,2
+102906000,2025-07,3
+102906000,2025-09,7
+102934000,2022-01,2
+102934000,2022-08,2
+102934000,2023-07,6
+102934000,2023-08,5
+102934000,2024-07,4
+102934000,2024-10,6
+102934000,2025-07,6
+102934000,2025-08,1
+102934000,2025-09,6
+103314000,2022-01,2
+103314000,2023-01,1
+103314000,2023-07,2
+103314000,2023-08,1
+103314000,2024-07,7
+103314000,2024-09,7
+103314000,2024-10,3
+103314000,2025-07,8
+103314000,2025-08,2
+103314000,2025-09,7
+103314000,2025-10,3
+103314000,2025-11,4
+105503000,2022-08,3
+105503000,2023-07,3
+105503000,2024-07,1
+105503000,2024-10,3
+105503000,2025-07,5
+105518000,2022-07,4
+105518000,2022-08,3
+105518000,2022-09,4
+105518000,2023-05,1
+105518000,2023-06,1
+105518000,2023-07,6
+105518000,2023-08,8
+105518000,2023-09,3
+105518000,2024-01,1
+105518000,2024-05,2
+105518000,2024-07,9
+105518000,2024-08,1
+105518000,2024-09,14
+105518000,2024-10,3
+105518000,2024-11,6
+105518000,2025-06,2
+105518000,2025-07,12
+105518000,2025-08,6
+105518000,2025-09,3
+105518000,2025-10,2
+105518000,2025-11,5
+105532000,2022-08,3
+105532000,2023-07,2
+105532000,2023-08,4
+105532000,2023-09,2
+105532000,2024-07,11
+105532000,2024-09,11
+105532000,2024-10,5
+105532000,2024-11,3
+105532000,2025-02,1
+105532000,2025-07,10
+105532000,2025-08,2
+105532000,2025-09,6
+105532000,2025-10,2
+105532000,2025-11,6
+105546000,2022-08,3
+105546000,2022-11,1
+105546000,2023-07,6
+105546000,2023-08,5
+105546000,2024-07,6
+105546000,2024-09,1
+105546000,2024-10,1
+105546000,2024-11,1
+105546000,2025-07,9
+105546000,2025-08,2
+105546000,2025-09,5
+201529000,2022-08,3
+201529000,2022-10,5
+201529000,2022-11,2
+201529000,2023-01,1
+201529000,2023-07,1
+201529000,2023-08,4
+201529000,2023-11,2
+201529000,2024-03,1
+201529000,2024-07,6
+201529000,2024-10,7
+201529000,2024-11,12
+201529000,2024-12,3
+201529000,2025-07,3
+201529000,2025-09,3
+201529000,2025-10,5
+201529000,2025-11,18
+201529000,2025-12,1
+203108000,2022-10,2
+203108000,2022-11,2
+203108000,2023-08,1
+203108000,2024-07,1
+203108000,2024-09,4
+203108000,2024-10,2
+203108000,2024-11,8
+203108000,2025-04,1
+203108000,2025-07,1
+203108000,2025-09,1
+203108000,2025-11,5
+203108000,2025-12,1
+203114000,2022-08,4
+203114000,2022-10,4
+203114000,2022-11,3
+203114000,2023-01,2
+203114000,2023-07,1
+203114000,2023-08,1
+203114000,2024-01,1
+203114000,2024-03,3
+203114000,2024-07,2
+203114000,2024-08,1
+203114000,2024-09,1
+203114000,2024-10,6
+203114000,2024-11,12
+203114000,2025-08,2
+203114000,2025-10,2
+203114000,2025-11,10
+203114000,2025-12,1
+203135000,2022-07,1
+203135000,2022-08,2
+203135000,2022-10,7
+203135000,2023-01,2
+203135000,2023-07,1
+203135000,2023-08,2
+203135000,2024-09,5
+203135000,2024-10,3
+203135000,2024-11,4
+203135000,2024-12,1
+203135000,2025-07,1
+203135000,2025-08,1
+203135000,2025-09,3
+203135000,2025-10,2
+203135000,2025-11,5
+300803000,2022-04,6
+300803000,2022-07,4
+300803000,2022-08,1
+300803000,2022-09,4
+300803000,2023-07,8
+300803000,2023-08,2
+300803000,2024-07,8
+300803000,2024-09,8
+300803000,2024-10,2
+300803000,2024-11,1
+300803000,2025-07,2
+300803000,2025-08,1
+300803000,2025-10,5
+300803000,2025-11,3
+301403000,2022-08,3
+301403000,2022-09,7
+301403000,2022-11,4
+301403000,2022-12,4
+301403000,2023-01,4
+301403000,2023-07,9
+301403000,2023-08,11
+301403000,2023-09,3
+301403000,2024-01,4
+301403000,2024-02,3
+301403000,2024-03,1
+301403000,2024-05,1
+301403000,2024-06,1
+301403000,2024-07,10
+301403000,2024-08,2
+301403000,2024-09,10
+301403000,2024-10,10
+301403000,2024-11,5
+301403000,2024-12,2
+301403000,2025-06,4
+301403000,2025-07,5
+301403000,2025-08,4
+301403000,2025-09,17
+301403000,2025-10,6
+301403000,2025-11,9
+301403000,2025-12,1
+301410000,2022-01,4
+301410000,2022-05,2
+301410000,2022-07,4
+301410000,2022-09,7
+301410000,2022-10,3
+301410000,2022-11,5
+301410000,2022-12,4
+301410000,2023-01,5
+301410000,2023-03,2
+301410000,2023-05,2
+301410000,2023-07,10
+301410000,2023-08,12
+301410000,2023-09,3
+301410000,2024-03,1
+301410000,2024-05,2
+301410000,2024-07,13
+301410000,2024-08,1
+301410000,2024-09,6
+301410000,2024-10,7
+301410000,2024-11,4
+301410000,2024-12,2
+301410000,2025-05,2
+301410000,2025-06,4
+301410000,2025-07,4
+301410000,2025-08,8
+301410000,2025-09,13
+301410000,2025-10,2
+301410000,2025-11,7
+301412000,2022-05,3
+301412000,2022-06,5
+301412000,2022-07,8
+301412000,2022-08,3
+301412000,2022-09,11
+301412000,2022-10,5
+301412000,2022-11,4
+301412000,2022-12,2
+301412000,2023-01,2
+301412000,2023-03,1
+301412000,2023-04,2
+301412000,2023-05,1
+301412000,2023-06,3
+301412000,2023-07,15
+301412000,2023-08,13
+301412000,2023-09,8
+301412000,2023-10,3
+301412000,2023-11,2
+301412000,2023-12,1
+301412000,2024-02,2
+301412000,2024-03,1
+301412000,2024-05,4
+301412000,2024-06,1
+301412000,2024-07,14
+301412000,2024-08,3
+301412000,2024-09,9
+301412000,2024-10,8
+301412000,2024-11,5
+301412000,2024-12,1
+301412000,2025-05,2
+301412000,2025-06,6
+301412000,2025-07,20
+301412000,2025-08,19
+301412000,2025-09,21
+301412000,2025-10,3
+301412000,2025-11,8
+301412000,2025-12,1
+301420000,2022-05,1
+301420000,2022-07,6
+301420000,2022-08,2
+301420000,2022-09,11
+301420000,2022-10,5
+301420000,2022-11,4
+301420000,2022-12,4
+301420000,2023-01,6
+301420000,2023-04,2
+301420000,2023-07,17
+301420000,2023-08,11
+301420000,2023-09,5
+301420000,2023-10,1
+301420000,2024-02,2
+301420000,2024-03,1
+301420000,2024-04,1
+301420000,2024-05,5
+301420000,2024-06,1
+301420000,2024-07,13
+301420000,2024-08,5
+301420000,2024-09,12
+301420000,2024-10,10
+301420000,2024-11,5
+301420000,2024-12,1
+301420000,2025-04,3
+301420000,2025-06,10
+301420000,2025-07,13
+301420000,2025-08,20
+301420000,2025-09,18
+301420000,2025-10,8
+301420000,2025-11,7
+304903000,2022-09,2
+304903000,2024-03,1
+304903000,2024-07,2
+304903000,2024-09,3
+304903000,2024-10,2
+304903000,2024-11,5
+304903000,2025-07,5
+304903000,2025-10,1
+304903000,2025-11,4
+304908000,2022-08,3
+304908000,2022-09,8
+304908000,2022-10,1
+304908000,2022-11,4
+304908000,2022-12,1
+304908000,2023-05,1
+304908000,2023-07,9
+304908000,2023-08,7
+304908000,2023-09,3
+304908000,2024-03,1
+304908000,2024-07,8
+304908000,2024-08,4
+304908000,2024-09,7
+304908000,2024-10,10
+304908000,2024-11,5
+304908000,2024-12,2
+304908000,2025-06,4
+304908000,2025-07,3
+304908000,2025-08,4
+304908000,2025-09,14
+304908000,2025-10,4
+304908000,2025-11,9
+304908000,2025-12,1
+304917000,2022-09,2
+304917000,2024-07,3
+304917000,2025-02,3
+304917000,2025-07,2
+304917000,2025-08,1
+304919000,2023-01,1
+304919000,2024-07,2
+304919000,2024-11,3
+304919000,2024-12,1
+304919000,2025-07,4
+304919000,2025-10,2
+304919000,2025-11,5
+304926000,2024-07,3
+304926000,2025-02,3
+304926000,2025-07,2
+304926000,2025-08,1
+304926000,2025-11,1
+305409000,2022-08,4
+305409000,2022-09,5
+305409000,2022-11,1
+305409000,2023-07,6
+305409000,2023-08,2
+305409000,2023-09,2
+305409000,2024-07,7
+305409000,2024-09,8
+305409000,2024-10,5
+305409000,2024-11,4
+305409000,2025-06,1
+305409000,2025-07,11
+305409000,2025-08,1
+305409000,2025-09,4
+305409000,2025-10,3
+305409000,2025-11,6
+305416000,2022-05,1
+305416000,2022-08,4
+305416000,2022-09,5
+305416000,2022-11,1
+305416000,2023-07,7
+305416000,2023-08,4
+305416000,2023-09,2
+305416000,2023-12,2
+305416000,2024-07,11
+305416000,2024-08,3
+305416000,2024-09,7
+305416000,2024-10,6
+305416000,2024-11,4
+305416000,2025-06,1
+305416000,2025-07,4
+305416000,2025-08,2
+305416000,2025-09,7
+305416000,2025-10,1
+305416000,2025-11,6
+306916000,2022-06,5
+306916000,2022-08,1
+306916000,2022-09,2
+306916000,2022-10,1
+306916000,2023-03,2
+306916000,2023-07,1
+306916000,2024-01,2
+306916000,2024-07,3
+306916000,2024-08,1
+306916000,2024-11,1
+306916000,2025-03,1
+306916000,2025-07,10
+306916000,2025-09,4
+306916000,2025-10,5
+330100000,2022-08,4
+330100000,2022-09,5
+330100000,2022-11,1
+330100000,2023-07,6
+330100000,2023-08,3
+330100000,2023-09,2
+330100000,2023-12,2
+330100000,2024-07,11
+330100000,2024-08,3
+330100000,2024-09,8
+330100000,2024-10,6
+330100000,2024-11,4
+330100000,2025-06,1
+330100000,2025-07,4
+330100000,2025-08,1
+330100000,2025-09,7
+330100000,2025-10,1
+330100000,2025-11,6
+330100000,2025-12,1
+331400000,2022-08,3
+331400000,2022-09,4
+331400000,2023-01,4
+331400000,2023-07,8
+331400000,2023-08,3
+331400000,2023-09,1
+331400000,2024-07,9
+331400000,2024-09,6
+331400000,2024-10,3
+331400000,2024-11,1
+331400000,2025-06,1
+331400000,2025-07,12
+331400000,2025-09,1
+331400000,2025-10,5
+331400000,2025-11,4
+401005000,2022-10,5
+401005000,2022-11,2
+401005000,2023-01,1
+401005000,2023-07,1
+401005000,2023-08,1
+401005000,2024-01,2
+401005000,2024-05,1
+401005000,2024-07,5
+401005000,2024-08,1
+401005000,2024-09,5
+401005000,2024-10,6
+401005000,2024-11,2
+401005000,2025-06,1
+401005000,2025-07,9
+401005000,2025-09,3
+401005000,2025-10,2
+401005000,2025-11,6
+401007000,2022-05,1
+401007000,2022-08,1
+401007000,2022-10,5
+401007000,2022-11,2
+401007000,2023-07,1
+401007000,2023-08,3
+401007000,2024-03,3
+401007000,2024-05,3
+401007000,2024-07,5
+401007000,2024-08,2
+401007000,2024-09,5
+401007000,2024-10,7
+401007000,2024-11,4
+401007000,2025-06,1
+401007000,2025-07,10
+401007000,2025-08,2
+401007000,2025-09,3
+401007000,2025-10,3
+401007000,2025-11,7
+401014000,2022-03,1
+401014000,2022-05,1
+401014000,2022-09,2
+401014000,2022-10,6
+401014000,2022-11,2
+401014000,2023-01,1
+401014000,2023-07,2
+401014000,2023-08,1
+401014000,2024-05,4
+401014000,2024-07,8
+401014000,2024-08,1
+401014000,2024-09,6
+401014000,2024-10,8
+401014000,2024-11,4
+401014000,2025-04,1
+401014000,2025-06,1
+401014000,2025-07,12
+401014000,2025-08,1
+401014000,2025-09,4
+401014000,2025-10,2
+401014000,2025-11,7
+401028000,2022-03,1
+401028000,2022-05,1
+401028000,2022-06,1
+401028000,2022-09,2
+401028000,2022-10,6
+401028000,2022-11,3
+401028000,2023-01,1
+401028000,2023-07,2
+401028000,2023-08,2
+401028000,2024-05,4
+401028000,2024-07,8
+401028000,2024-08,1
+401028000,2024-09,6
+401028000,2024-10,7
+401028000,2024-11,3
+401028000,2025-04,1
+401028000,2025-06,1
+401028000,2025-07,14
+401028000,2025-08,4
+401028000,2025-09,6
+401028000,2025-10,2
+401028000,2025-11,7
+401031000,2022-03,1
+401031000,2022-05,1
+401031000,2022-06,1
+401031000,2022-09,2
+401031000,2022-10,6
+401031000,2022-11,4
+401031000,2023-07,2
+401031000,2023-08,1
+401031000,2024-05,4
+401031000,2024-07,9
+401031000,2024-08,1
+401031000,2024-09,6
+401031000,2024-10,8
+401031000,2024-11,4
+401031000,2025-06,1
+401031000,2025-07,13
+401031000,2025-08,3
+401031000,2025-09,4
+401031000,2025-10,2
+401031000,2025-11,12
+402103000,2022-05,1
+402103000,2022-07,2
+402103000,2022-08,4
+402103000,2022-09,7
+402103000,2022-10,5
+402103000,2022-11,2
+402103000,2022-12,2
+402103000,2023-01,2
+402103000,2023-04,2
+402103000,2023-07,4
+402103000,2023-08,7
+402103000,2023-09,5
+402103000,2024-02,2
+402103000,2024-04,2
+402103000,2024-05,4
+402103000,2024-06,1
+402103000,2024-07,11
+402103000,2024-08,1
+402103000,2024-09,9
+402103000,2024-10,7
+402103000,2024-11,1
+402103000,2025-06,2
+402103000,2025-07,17
+402103000,2025-08,13
+402103000,2025-09,16
+402103000,2025-10,2
+402103000,2025-11,4
+402104000,2022-03,1
+402104000,2022-05,1
+402104000,2022-09,2
+402104000,2022-10,6
+402104000,2022-11,3
+402104000,2022-12,1
+402104000,2023-01,2
+402104000,2023-07,2
+402104000,2023-08,2
+402104000,2024-04,2
+402104000,2024-05,4
+402104000,2024-07,10
+402104000,2024-09,5
+402104000,2024-10,10
+402104000,2024-11,2
+402104000,2025-07,13
+402104000,2025-08,1
+402104000,2025-09,7
+402104000,2025-11,7
+402105000,2022-10,5
+402105000,2022-11,2
+402105000,2022-12,1
+402105000,2023-07,2
+402105000,2023-08,2
+402105000,2024-04,2
+402105000,2024-07,9
+402105000,2024-09,5
+402105000,2024-10,6
+402105000,2025-07,10
+402105000,2025-08,1
+402105000,2025-09,5
+402105000,2025-10,1
+402105000,2025-11,2
+402106000,2022-03,1
+402106000,2022-05,1
+402106000,2022-09,3
+402106000,2022-10,6
+402106000,2022-11,2
+402106000,2022-12,1
+402106000,2023-07,4
+402106000,2023-08,2
+402106000,2023-12,1
+402106000,2024-01,1
+402106000,2024-04,2
+402106000,2024-05,4
+402106000,2024-07,12
+402106000,2024-09,6
+402106000,2024-10,7
+402106000,2024-11,1
+402106000,2025-02,4
+402106000,2025-06,4
+402106000,2025-07,15
+402106000,2025-08,3
+402106000,2025-09,6
+402106000,2025-11,7
+402108000,2022-07,1
+402108000,2022-09,1
+402108000,2022-10,5
+402108000,2022-11,2
+402108000,2022-12,1
+402108000,2023-07,1
+402108000,2023-08,2
+402108000,2024-04,2
+402108000,2024-07,9
+402108000,2024-09,4
+402108000,2024-10,5
+402108000,2025-06,3
+402108000,2025-07,11
+402108000,2025-08,1
+402108000,2025-09,5
+402108000,2025-11,3
+402109000,2022-09,1
+402109000,2022-10,5
+402109000,2022-11,2
+402109000,2022-12,1
+402109000,2023-07,1
+402109000,2023-08,2
+402109000,2024-04,2
+402109000,2024-07,9
+402109000,2024-09,5
+402109000,2024-10,2
+402109000,2025-06,3
+402109000,2025-07,12
+402109000,2025-08,1
+402109000,2025-09,5
+402109000,2025-11,2
+402119000,2022-03,1
+402119000,2022-05,1
+402119000,2022-09,2
+402119000,2022-10,6
+402119000,2022-11,3
+402119000,2022-12,1
+402119000,2023-07,3
+402119000,2023-08,2
+402119000,2024-03,3
+402119000,2024-04,2
+402119000,2024-05,4
+402119000,2024-07,10
+402119000,2024-08,1
+402119000,2024-09,7
+402119000,2024-10,8
+402119000,2024-11,4
+402119000,2025-06,1
+402119000,2025-07,15
+402119000,2025-08,1
+402119000,2025-09,5
+402119000,2025-10,5
+402119000,2025-11,12
+402122000,2022-07,1
+402122000,2022-10,5
+402122000,2022-11,2
+402122000,2022-12,1
+402122000,2023-07,1
+402122000,2023-08,2
+402122000,2024-04,2
+402122000,2024-07,8
+402122000,2024-09,4
+402122000,2024-10,1
+402122000,2025-07,6
+402122000,2025-09,5
+402122000,2025-11,3
+403403000,2022-03,1
+403403000,2022-05,1
+403403000,2022-09,2
+403403000,2022-10,6
+403403000,2022-11,5
+403403000,2022-12,1
+403403000,2023-01,2
+403403000,2023-03,1
+403403000,2023-07,2
+403403000,2023-08,2
+403403000,2024-04,2
+403403000,2024-05,4
+403403000,2024-07,10
+403403000,2024-09,7
+403403000,2024-10,11
+403403000,2024-11,5
+403403000,2025-02,3
+403403000,2025-07,15
+403403000,2025-08,3
+403403000,2025-09,7
+403403000,2025-11,8
+403404000,2022-03,1
+403404000,2022-05,1
+403404000,2022-06,1
+403404000,2022-09,3
+403404000,2022-10,6
+403404000,2022-11,5
+403404000,2022-12,1
+403404000,2023-01,1
+403404000,2023-07,2
+403404000,2023-08,2
+403404000,2024-04,2
+403404000,2024-05,4
+403404000,2024-07,10
+403404000,2024-09,5
+403404000,2024-10,8
+403404000,2024-11,1
+403404000,2025-07,15
+403404000,2025-08,1
+403404000,2025-09,5
+403404000,2025-11,8
+403405000,2022-03,1
+403405000,2022-05,1
+403405000,2022-06,1
+403405000,2022-09,3
+403405000,2022-10,6
+403405000,2022-11,3
+403405000,2022-12,1
+403405000,2023-01,1
+403405000,2023-07,3
+403405000,2023-08,2
+403405000,2024-04,2
+403405000,2024-05,4
+403405000,2024-07,10
+403405000,2024-08,1
+403405000,2024-09,7
+403405000,2024-10,8
+403405000,2024-11,3
+403405000,2025-06,3
+403405000,2025-07,16
+403405000,2025-08,1
+403405000,2025-09,5
+403405000,2025-10,2
+403405000,2025-11,7
+403424000,2022-03,1
+403424000,2022-05,1
+403424000,2022-06,1
+403424000,2022-07,1
+403424000,2022-09,2
+403424000,2022-10,6
+403424000,2022-11,4
+403424000,2023-07,2
+403424000,2023-08,1
+403424000,2024-05,4
+403424000,2024-07,7
+403424000,2024-08,1
+403424000,2024-09,6
+403424000,2024-10,7
+403424000,2024-11,3
+403424000,2025-04,1
+403424000,2025-06,1
+403424000,2025-07,12
+403424000,2025-08,1
+403424000,2025-09,4
+403424000,2025-10,2
+403424000,2025-11,8
+403424000,2025-12,3
+403425000,2022-03,1
+403425000,2022-05,2
+403425000,2022-07,2
+403425000,2022-08,2
+403425000,2022-09,6
+403425000,2022-10,6
+403425000,2022-11,4
+403425000,2022-12,2
+403425000,2023-01,3
+403425000,2023-03,1
+403425000,2023-04,2
+403425000,2023-07,5
+403425000,2023-08,7
+403425000,2023-09,5
+403425000,2023-12,1
+403425000,2024-01,1
+403425000,2024-02,2
+403425000,2024-04,2
+403425000,2024-05,6
+403425000,2024-06,1
+403425000,2024-07,13
+403425000,2024-08,1
+403425000,2024-09,9
+403425000,2024-10,9
+403425000,2024-11,3
+403425000,2025-02,3
+403425000,2025-06,2
+403425000,2025-07,18
+403425000,2025-08,11
+403425000,2025-09,15
+403425000,2025-10,2
+403425000,2025-11,9
+403428000,2022-03,1
+403428000,2022-05,1
+403428000,2022-09,3
+403428000,2022-10,6
+403428000,2022-11,5
+403428000,2022-12,1
+403428000,2023-01,2
+403428000,2023-07,2
+403428000,2023-08,2
+403428000,2024-04,2
+403428000,2024-05,4
+403428000,2024-07,10
+403428000,2024-09,5
+403428000,2024-10,9
+403428000,2024-11,5
+403428000,2025-07,15
+403428000,2025-08,1
+403428000,2025-09,7
+403428000,2025-11,8
+405647000,2022-03,1
+405647000,2022-05,1
+405647000,2022-06,1
+405647000,2022-09,2
+405647000,2022-10,6
+405647000,2022-11,4
+405647000,2022-12,2
+405647000,2023-07,1
+405647000,2023-08,1
+405647000,2023-11,5
+405647000,2024-05,7
+405647000,2024-07,6
+405647000,2024-09,2
+405647000,2024-10,9
+405647000,2024-11,1
+405647000,2024-12,3
+405647000,2025-05,1
+405647000,2025-06,6
+405647000,2025-07,11
+405647000,2025-08,1
+405647000,2025-09,9
+405647000,2025-10,5
+405647000,2025-11,7
+405802000,2022-04,5
+405802000,2022-05,1
+405802000,2022-06,3
+405802000,2022-07,2
+405802000,2022-08,4
+405802000,2022-09,11
+405802000,2022-10,4
+405802000,2022-11,1
+405802000,2022-12,8
+405802000,2023-01,4
+405802000,2023-04,2
+405802000,2023-07,12
+405802000,2023-08,9
+405802000,2023-09,5
+405802000,2024-02,2
+405802000,2024-05,3
+405802000,2024-06,4
+405802000,2024-07,15
+405802000,2024-08,7
+405802000,2024-09,13
+405802000,2024-10,10
+405802000,2024-11,4
+405802000,2025-03,3
+405802000,2025-04,2
+405802000,2025-05,1
+405802000,2025-06,2
+405802000,2025-07,15
+405802000,2025-08,16
+405802000,2025-09,11
+405802000,2025-10,4
+405802000,2025-11,4
+431200000,2022-06,1
+431200000,2022-10,4
+431200000,2022-11,1
+431200000,2023-11,2
+431200000,2024-03,1
+431200000,2024-05,7
+431200000,2024-10,1
+431200000,2024-12,3
+431200000,2025-07,1
+431200000,2025-09,4
+500506000,2022-07,2
+500506000,2022-08,3
+500506000,2022-10,4
+500506000,2022-12,6
+500506000,2023-01,2
+500506000,2023-02,1
+500506000,2023-04,2
+500506000,2023-10,3
+500506000,2024-05,5
+500506000,2024-07,2
+500506000,2024-09,5
+500506000,2024-10,7
+500506000,2024-11,7
+500506000,2024-12,3
+500506000,2025-01,5
+500506000,2025-02,1
+500506000,2025-03,2
+500506000,2025-07,7
+500506000,2025-08,3
+500506000,2025-09,2
+500506000,2025-10,3
+500506000,2025-11,10
+500506000,2025-12,3
+500508000,2022-07,1
+500508000,2022-08,1
+500508000,2022-10,3
+500508000,2022-12,6
+500508000,2023-01,2
+500508000,2023-04,2
+500508000,2023-10,2
+500508000,2024-01,1
+500508000,2024-05,5
+500508000,2024-07,2
+500508000,2024-09,5
+500508000,2024-10,5
+500508000,2024-11,3
+500508000,2024-12,4
+500508000,2025-02,1
+500508000,2025-03,2
+500508000,2025-07,5
+500508000,2025-08,5
+500508000,2025-09,1
+500508000,2025-10,3
+500508000,2025-11,13
+500508000,2025-12,2
+500517000,2022-07,1
+500517000,2022-10,3
+500517000,2022-12,8
+500517000,2023-01,2
+500517000,2023-04,2
+500517000,2023-09,1
+500517000,2023-10,2
+500517000,2024-05,5
+500517000,2024-07,2
+500517000,2024-09,5
+500517000,2024-10,5
+500517000,2024-11,1
+500517000,2024-12,1
+500517000,2025-01,2
+500517000,2025-02,1
+500517000,2025-03,2
+500517000,2025-07,5
+500517000,2025-08,3
+500517000,2025-10,3
+500517000,2025-11,11
+501716000,2022-07,4
+501716000,2022-08,3
+501716000,2022-10,3
+501716000,2022-12,6
+501716000,2023-01,2
+501716000,2023-04,4
+501716000,2023-07,2
+501716000,2023-10,2
+501716000,2024-05,5
+501716000,2024-07,3
+501716000,2024-09,8
+501716000,2024-10,8
+501716000,2024-11,4
+501716000,2024-12,6
+501716000,2025-01,4
+501716000,2025-02,1
+501716000,2025-03,2
+501716000,2025-06,1
+501716000,2025-07,8
+501716000,2025-08,3
+501716000,2025-09,1
+501716000,2025-10,3
+501716000,2025-11,12
+501716000,2025-12,2
+501724000,2022-08,1
+501724000,2022-12,9
+501724000,2023-01,4
+501724000,2023-04,3
+501724000,2023-07,1
+501724000,2023-09,3
+501724000,2023-10,5
+501724000,2023-11,1
+501724000,2024-06,7
+501724000,2024-08,3
+501724000,2024-09,9
+501724000,2024-10,8
+501724000,2024-11,3
+501724000,2024-12,3
+501724000,2025-03,1
+501724000,2025-04,2
+501724000,2025-06,1
+501724000,2025-07,2
+501724000,2025-08,1
+501724000,2025-09,3
+501724000,2025-11,9
+501724000,2025-12,1
+504111000,2022-04,3
+504111000,2022-08,2
+504111000,2023-08,3
+504111000,2023-11,2
+504111000,2024-07,1
+504111000,2024-09,2
+504111000,2024-10,6
+504111000,2024-11,1
+504111000,2024-12,2
+504111000,2025-02,2
+504111000,2025-03,1
+504111000,2025-05,1
+504111000,2025-08,3
+504111000,2025-09,9
+504111000,2025-11,5
+506216000,2022-07,1
+506216000,2022-10,3
+506216000,2022-12,6
+506216000,2023-01,6
+506216000,2023-04,2
+506216000,2023-10,2
+506216000,2024-05,5
+506216000,2024-07,2
+506216000,2024-09,5
+506216000,2024-10,6
+506216000,2024-11,2
+506216000,2024-12,3
+506216000,2025-01,5
+506216000,2025-02,1
+506216000,2025-03,2
+506216000,2025-07,5
+506216000,2025-08,3
+506216000,2025-09,2
+506216000,2025-10,3
+506216000,2025-11,10
+506216000,2025-12,1
+601914000,2022-04,7
+601914000,2022-06,1
+601914000,2022-07,2
+601914000,2022-09,1
+601914000,2022-10,6
+601914000,2022-11,1
+601914000,2023-02,2
+601914000,2023-05,1
+601914000,2023-11,6
+601914000,2024-05,1
+601914000,2024-07,1
+601914000,2024-08,1
+601914000,2024-09,2
+601914000,2024-10,3
+601914000,2024-12,2
+601914000,2025-07,8
+601914000,2025-08,2
+601914000,2025-09,1
+601914000,2025-10,5
+601914000,2025-11,6
+603035000,2022-04,6
+603035000,2022-09,1
+603035000,2022-10,8
+603035000,2022-11,1
+603035000,2023-05,2
+603035000,2023-07,1
+603035000,2023-08,1
+603035000,2023-11,6
+603035000,2024-05,1
+603035000,2024-07,1
+603035000,2024-09,5
+603035000,2024-10,3
+603035000,2024-12,2
+603035000,2025-06,1
+603035000,2025-07,10
+603035000,2025-09,4
+603035000,2025-10,3
+603035000,2025-11,7
+604502000,2022-03,1
+604502000,2022-07,1
+604502000,2022-10,7
+604502000,2022-11,1
+604502000,2023-01,2
+604502000,2023-03,1
+604502000,2023-04,1
+604502000,2023-05,4
+604502000,2023-07,7
+604502000,2023-08,5
+604502000,2023-09,2
+604502000,2023-10,2
+604502000,2024-06,4
+604502000,2024-07,7
+604502000,2024-08,1
+604502000,2024-09,8
+604502000,2024-10,7
+604502000,2024-11,3
+604502000,2025-01,1
+604502000,2025-02,4
+604502000,2025-05,3
+604502000,2025-06,2
+604502000,2025-07,14
+604502000,2025-08,5
+604502000,2025-09,7
+604502000,2025-10,8
+604502000,2025-11,17
+604504000,2022-01,2
+604504000,2022-04,2
+604504000,2022-10,2
+604504000,2022-12,1
+604504000,2023-01,2
+604504000,2023-05,2
+604504000,2023-07,4
+604504000,2023-08,4
+604504000,2023-09,1
+604504000,2023-12,1
+604504000,2024-10,7
+604504000,2024-12,9
+604504000,2025-01,3
+604504000,2025-02,1
+604504000,2025-06,1
+604504000,2025-07,7
+604504000,2025-08,2
+604504000,2025-09,3
+604504000,2025-11,8
+604509000,2022-04,2
+604509000,2023-01,2
+604509000,2023-07,3
+604509000,2024-10,7
+604509000,2024-12,2
+604509000,2025-07,7
+604509000,2025-08,2
+604509000,2025-11,8
+604510000,2022-09,1
+604510000,2022-10,3
+604510000,2022-12,3
+604510000,2023-05,2
+604510000,2023-08,3
+604510000,2023-09,1
+604510000,2024-08,1
+604510000,2024-09,8
+604510000,2024-10,5
+604510000,2025-07,9
+604510000,2025-08,4
+604510000,2025-09,2
+604510000,2025-11,7
+604515000,2022-03,2
+604515000,2022-09,1
+604515000,2022-10,3
+604515000,2022-12,3
+604515000,2023-05,2
+604515000,2023-08,3
+604515000,2023-09,1
+604515000,2024-08,1
+604515000,2024-09,8
+604515000,2024-10,5
+604515000,2025-07,9
+604515000,2025-08,4
+604515000,2025-11,7
+604516000,2022-10,4
+604516000,2023-03,1
+604516000,2023-07,5
+604516000,2023-08,5
+604516000,2023-09,2
+604516000,2023-10,2
+604516000,2024-06,3
+604516000,2024-07,5
+604516000,2024-08,1
+604516000,2024-09,7
+604516000,2024-10,7
+604516000,2024-11,4
+604516000,2025-02,3
+604516000,2025-05,5
+604516000,2025-06,2
+604516000,2025-07,10
+604516000,2025-08,7
+604516000,2025-09,9
+604516000,2025-10,5
+604516000,2025-11,17
+604523000,2022-01,2
+604523000,2022-04,2
+604523000,2022-10,4
+604523000,2022-12,1
+604523000,2023-01,5
+604523000,2023-05,2
+604523000,2023-07,4
+604523000,2023-08,4
+604523000,2023-09,1
+604523000,2024-07,2
+604523000,2024-08,1
+604523000,2024-10,7
+604523000,2024-12,8
+604523000,2025-01,3
+604523000,2025-02,1
+604523000,2025-06,1
+604523000,2025-07,11
+604523000,2025-08,2
+604523000,2025-09,3
+604523000,2025-11,9
+604524000,2022-07,1
+604524000,2022-10,4
+604524000,2023-05,3
+604524000,2023-07,4
+604524000,2023-08,5
+604524000,2023-09,2
+604524000,2023-10,2
+604524000,2024-06,1
+604524000,2024-07,5
+604524000,2024-09,4
+604524000,2024-10,7
+604524000,2024-11,3
+604524000,2025-02,4
+604524000,2025-04,4
+604524000,2025-05,3
+604524000,2025-06,1
+604524000,2025-07,12
+604524000,2025-08,4
+604524000,2025-09,6
+604524000,2025-10,5
+604524000,2025-11,15
+604526000,2022-01,2
+604526000,2022-04,2
+604526000,2022-10,2
+604526000,2022-12,1
+604526000,2023-01,3
+604526000,2023-05,2
+604526000,2023-07,4
+604526000,2023-08,4
+604526000,2023-09,1
+604526000,2024-07,2
+604526000,2024-08,1
+604526000,2024-10,7
+604526000,2024-12,8
+604526000,2025-01,3
+604526000,2025-02,1
+604526000,2025-06,1
+604526000,2025-07,11
+604526000,2025-08,2
+604526000,2025-09,3
+604526000,2025-11,9
+604527000,2022-09,1
+604527000,2022-10,5
+604527000,2023-07,4
+604527000,2024-09,7
+604527000,2024-10,5
+604527000,2025-07,9
+604527000,2025-08,3
+604527000,2025-09,1
+604527000,2025-11,5
+604528000,2022-01,2
+604528000,2022-03,1
+604528000,2022-04,2
+604528000,2022-07,1
+604528000,2022-10,7
+604528000,2022-11,1
+604528000,2023-01,3
+604528000,2023-04,1
+604528000,2023-05,2
+604528000,2023-07,7
+604528000,2023-08,4
+604528000,2023-09,1
+604528000,2024-06,2
+604528000,2024-07,2
+604528000,2024-08,1
+604528000,2024-09,7
+604528000,2024-10,5
+604528000,2024-12,7
+604528000,2025-06,1
+604528000,2025-07,12
+604528000,2025-08,1
+604528000,2025-09,5
+604528000,2025-10,4
+604528000,2025-11,13
+604531000,2022-01,2
+604531000,2022-04,2
+604531000,2022-10,2
+604531000,2023-05,2
+604531000,2023-07,4
+604531000,2023-08,3
+604531000,2023-09,1
+604531000,2023-12,1
+604531000,2024-10,5
+604531000,2024-12,8
+604531000,2025-07,1
+604531000,2025-09,1
+604531000,2025-11,3
+630200000,2022-03,3
+630200000,2022-04,2
+630200000,2022-07,3
+630200000,2022-09,1
+630200000,2022-10,7
+630200000,2022-11,1
+630200000,2023-01,3
+630200000,2023-04,1
+630200000,2023-05,2
+630200000,2023-07,7
+630200000,2023-08,5
+630200000,2023-09,2
+630200000,2023-10,2
+630200000,2024-06,2
+630200000,2024-07,7
+630200000,2024-08,1
+630200000,2024-09,7
+630200000,2024-10,7
+630200000,2024-11,1
+630200000,2024-12,3
+630200000,2025-06,5
+630200000,2025-07,13
+630200000,2025-08,1
+630200000,2025-09,4
+630200000,2025-10,6
+630200000,2025-11,13
+631000000,2022-04,7
+631000000,2022-07,1
+631000000,2022-09,1
+631000000,2022-10,6
+631000000,2022-11,1
+631000000,2023-05,5
+631000000,2023-06,2
+631000000,2023-07,8
+631000000,2023-08,4
+631000000,2023-09,2
+631000000,2024-03,2
+631000000,2024-06,2
+631000000,2024-07,7
+631000000,2024-08,1
+631000000,2024-09,7
+631000000,2024-10,6
+631000000,2024-11,1
+631000000,2025-05,4
+631000000,2025-07,22
+631000000,2025-09,10
+631000000,2025-10,4
+631000000,2025-11,6
+631000000,2025-12,1
+701242000,2022-04,5
+701242000,2023-01,3
+701242000,2023-02,1
+701242000,2023-12,1
+701242000,2024-10,2
+701242000,2025-07,3
+701242000,2025-08,1
+701242000,2025-11,9
+702211000,2022-04,7
+702211000,2022-07,1
+702211000,2022-08,7
+702211000,2022-09,3
+702211000,2022-10,5
+702211000,2022-11,1
+702211000,2022-12,1
+702211000,2023-04,1
+702211000,2023-05,2
+702211000,2024-04,2
+702211000,2024-07,9
+702211000,2024-08,1
+702211000,2024-09,4
+702211000,2024-10,6
+702211000,2024-11,6
+702211000,2025-01,8
+702211000,2025-02,1
+702211000,2025-04,5
+702211000,2025-05,3
+702211000,2025-06,5
+702211000,2025-07,6
+702211000,2025-08,6
+702211000,2025-09,6
+702211000,2025-10,7
+702211000,2025-11,17
+702211000,2025-12,2
+702214000,2022-04,7
+702214000,2022-07,2
+702214000,2022-08,8
+702214000,2022-09,3
+702214000,2022-10,5
+702214000,2022-11,1
+702214000,2023-04,1
+702214000,2023-05,2
+702214000,2024-04,2
+702214000,2024-06,2
+702214000,2024-07,9
+702214000,2024-08,2
+702214000,2024-09,4
+702214000,2024-10,6
+702214000,2024-11,4
+702214000,2025-01,8
+702214000,2025-02,1
+702214000,2025-04,5
+702214000,2025-05,3
+702214000,2025-06,5
+702214000,2025-07,6
+702214000,2025-08,7
+702214000,2025-09,5
+702214000,2025-10,5
+702214000,2025-11,16
+702214000,2025-12,3
+702223000,2022-04,8
+702223000,2022-07,4
+702223000,2022-08,11
+702223000,2022-09,5
+702223000,2022-10,6
+702223000,2022-11,1
+702223000,2022-12,2
+702223000,2023-04,1
+702223000,2023-05,2
+702223000,2023-07,2
+702223000,2023-08,2
+702223000,2023-09,6
+702223000,2024-01,2
+702223000,2024-04,2
+702223000,2024-06,2
+702223000,2024-07,13
+702223000,2024-08,5
+702223000,2024-09,4
+702223000,2024-10,8
+702223000,2024-11,12
+702223000,2025-01,11
+702223000,2025-02,1
+702223000,2025-04,5
+702223000,2025-05,4
+702223000,2025-06,8
+702223000,2025-07,7
+702223000,2025-08,9
+702223000,2025-09,7
+702223000,2025-10,8
+702223000,2025-11,19
+702223000,2025-12,4
+702234000,2022-01,2
+702234000,2022-04,7
+702234000,2022-07,1
+702234000,2022-08,7
+702234000,2022-09,3
+702234000,2022-10,5
+702234000,2022-11,1
+702234000,2023-04,1
+702234000,2023-05,3
+702234000,2023-10,1
+702234000,2024-04,2
+702234000,2024-07,10
+702234000,2024-08,2
+702234000,2024-09,4
+702234000,2024-10,7
+702234000,2024-11,6
+702234000,2024-12,2
+702234000,2025-01,8
+702234000,2025-02,1
+702234000,2025-04,5
+702234000,2025-05,3
+702234000,2025-06,5
+702234000,2025-07,6
+702234000,2025-08,8
+702234000,2025-09,5
+702234000,2025-10,5
+702234000,2025-11,16
+702234000,2025-12,2
+702250000,2022-04,8
+702250000,2022-07,5
+702250000,2022-08,11
+702250000,2022-09,5
+702250000,2022-10,6
+702250000,2022-11,1
+702250000,2022-12,2
+702250000,2023-04,1
+702250000,2023-05,2
+702250000,2023-07,2
+702250000,2023-08,2
+702250000,2023-09,7
+702250000,2023-10,4
+702250000,2023-11,2
+702250000,2024-04,2
+702250000,2024-05,1
+702250000,2024-06,2
+702250000,2024-07,13
+702250000,2024-08,5
+702250000,2024-09,4
+702250000,2024-10,11
+702250000,2024-11,13
+702250000,2024-12,5
+702250000,2025-01,11
+702250000,2025-02,5
+702250000,2025-04,5
+702250000,2025-05,4
+702250000,2025-06,8
+702250000,2025-07,11
+702250000,2025-08,10
+702250000,2025-09,6
+702250000,2025-10,9
+702250000,2025-11,20
+702250000,2025-12,2
+702251000,2022-04,8
+702251000,2022-07,4
+702251000,2022-08,11
+702251000,2022-09,5
+702251000,2022-10,6
+702251000,2022-11,1
+702251000,2022-12,1
+702251000,2023-04,1
+702251000,2023-05,3
+702251000,2023-07,2
+702251000,2023-08,2
+702251000,2023-09,5
+702251000,2023-10,1
+702251000,2024-04,2
+702251000,2024-06,2
+702251000,2024-07,13
+702251000,2024-08,5
+702251000,2024-09,4
+702251000,2024-10,9
+702251000,2024-11,12
+702251000,2024-12,2
+702251000,2025-01,11
+702251000,2025-02,1
+702251000,2025-04,5
+702251000,2025-05,4
+702251000,2025-06,8
+702251000,2025-07,10
+702251000,2025-08,9
+702251000,2025-09,6
+702251000,2025-10,8
+702251000,2025-11,21
+702251000,2025-12,3
+704604000,2022-12,3
+704604000,2023-01,2
+704604000,2025-07,1
+704604000,2025-09,1
+704604000,2025-11,2
+704606000,2022-04,1
+704606000,2022-09,2
+704606000,2022-10,3
+704606000,2023-01,2
+704606000,2023-07,1
+704606000,2024-07,2
+704606000,2024-08,1
+704606000,2024-09,8
+704606000,2024-10,5
+704606000,2025-07,10
+704606000,2025-08,4
+704606000,2025-09,1
+704606000,2025-11,4
+704608000,2022-07,1
+704608000,2022-08,2
+704608000,2022-10,4
+704608000,2022-12,1
+704608000,2023-01,2
+704608000,2023-05,3
+704608000,2023-07,3
+704608000,2023-08,3
+704608000,2023-09,1
+704608000,2024-06,2
+704608000,2024-08,1
+704608000,2024-09,5
+704608000,2024-11,4
+704608000,2025-02,4
+704608000,2025-04,4
+704608000,2025-05,6
+704608000,2025-06,1
+704608000,2025-07,11
+704608000,2025-08,5
+704608000,2025-09,11
+704608000,2025-10,5
+704608000,2025-11,18
+704610000,2022-08,1
+704610000,2022-10,1
+704610000,2022-12,1
+704610000,2023-01,2
+704610000,2023-07,2
+704610000,2025-03,1
+704610000,2025-11,2
+704611000,2022-07,1
+704611000,2022-08,2
+704611000,2022-10,4
+704611000,2022-12,1
+704611000,2023-01,2
+704611000,2023-07,3
+704611000,2023-08,3
+704611000,2023-09,1
+704611000,2024-06,1
+704611000,2024-09,3
+704611000,2024-10,5
+704611000,2024-11,4
+704611000,2025-02,3
+704611000,2025-04,4
+704611000,2025-05,2
+704611000,2025-07,9
+704611000,2025-08,3
+704611000,2025-09,13
+704611000,2025-10,5
+704611000,2025-11,17
+704621000,2023-01,2
+704621000,2023-07,1
+704621000,2025-07,1
+704621000,2025-09,1
+704621000,2025-11,2
+730600000,2022-03,1
+730600000,2022-04,9
+730600000,2022-07,5
+730600000,2022-08,14
+730600000,2022-09,6
+730600000,2022-10,7
+730600000,2022-11,1
+730600000,2022-12,3
+730600000,2023-03,1
+730600000,2023-04,1
+730600000,2023-05,2
+730600000,2023-07,3
+730600000,2023-08,3
+730600000,2023-09,9
+730600000,2023-10,1
+730600000,2024-01,2
+730600000,2024-04,2
+730600000,2024-05,3
+730600000,2024-06,4
+730600000,2024-07,16
+730600000,2024-08,6
+730600000,2024-09,9
+730600000,2024-10,11
+730600000,2024-11,13
+730600000,2024-12,5
+730600000,2025-01,11
+730600000,2025-02,5
+730600000,2025-04,5
+730600000,2025-05,7
+730600000,2025-06,10
+730600000,2025-07,13
+730600000,2025-08,11
+730600000,2025-09,11
+730600000,2025-10,11
+730600000,2025-11,25
+730600000,2025-12,4
+731100000,2022-04,9
+731100000,2022-07,1
+731100000,2022-08,7
+731100000,2022-09,4
+731100000,2022-10,5
+731100000,2022-11,1
+731100000,2023-04,1
+731100000,2023-05,2
+731100000,2024-04,2
+731100000,2024-07,10
+731100000,2024-08,2
+731100000,2024-09,4
+731100000,2024-10,6
+731100000,2024-11,6
+731100000,2024-12,1
+731100000,2025-01,8
+731100000,2025-02,1
+731100000,2025-04,5
+731100000,2025-05,3
+731100000,2025-06,5
+731100000,2025-07,9
+731100000,2025-08,7
+731100000,2025-09,5
+731100000,2025-10,1
+731100000,2025-11,13
+731100000,2025-12,3
+731300000,2022-03,1
+731300000,2022-04,9
+731300000,2022-07,4
+731300000,2022-08,12
+731300000,2022-09,6
+731300000,2022-10,7
+731300000,2022-11,1
+731300000,2022-12,2
+731300000,2023-04,1
+731300000,2023-05,2
+731300000,2023-07,2
+731300000,2023-08,2
+731300000,2023-09,6
+731300000,2023-10,1
+731300000,2024-04,2
+731300000,2024-05,2
+731300000,2024-06,3
+731300000,2024-07,17
+731300000,2024-08,6
+731300000,2024-09,4
+731300000,2024-10,8
+731300000,2024-11,12
+731300000,2024-12,1
+731300000,2025-01,11
+731300000,2025-02,4
+731300000,2025-04,5
+731300000,2025-05,4
+731300000,2025-06,8
+731300000,2025-07,10
+731300000,2025-08,13
+731300000,2025-09,6
+731300000,2025-10,9
+731300000,2025-11,24
+731300000,2025-12,3
+802604000,2022-02,1
+802604000,2022-04,5
+802604000,2022-09,2
+802604000,2022-12,5
+802604000,2023-01,8
+802604000,2023-02,7
+802604000,2023-11,7
+802604000,2024-05,3
+802604000,2024-09,5
+802604000,2024-10,4
+802604000,2024-11,3
+802604000,2024-12,2
+802604000,2025-01,4
+802604000,2025-02,2
+802604000,2025-03,7
+802604000,2025-04,3
+802604000,2025-09,8
+802604000,2025-10,3
+802604000,2025-11,8
+802604000,2025-12,2
+803708000,2022-04,12
+803708000,2022-11,3
+803708000,2022-12,1
+803708000,2023-01,2
+803708000,2023-11,1
+803708000,2024-07,3
+803708000,2024-12,2
+803708000,2025-04,1
+803708000,2025-07,2
+803708000,2025-08,3
+803708000,2025-09,2
+803708000,2025-11,3
+803738000,2022-04,3
+803738000,2022-07,1
+803738000,2022-10,6
+803738000,2023-01,4
+803738000,2023-02,7
+803738000,2023-11,1
+803738000,2024-07,3
+803738000,2024-08,2
+803738000,2024-10,3
+803738000,2024-11,1
+803738000,2025-03,1
+803738000,2025-07,2
+803738000,2025-08,3
+803738000,2025-09,5
+803738000,2025-10,2
+806003000,2022-03,2
+806003000,2022-04,3
+806003000,2022-08,1
+806003000,2022-12,4
+806003000,2023-01,9
+806003000,2023-02,7
+806003000,2023-05,2
+806003000,2023-07,1
+806003000,2023-08,1
+806003000,2023-11,7
+806003000,2024-08,1
+806003000,2024-09,6
+806003000,2024-10,6
+806003000,2024-11,3
+806003000,2024-12,1
+806003000,2025-01,4
+806003000,2025-02,2
+806003000,2025-03,7
+806003000,2025-04,2
+806003000,2025-07,1
+806003000,2025-09,3
+806003000,2025-10,2
+806003000,2025-11,5
+806005000,2023-01,6
+806005000,2023-07,1
+806005000,2023-11,4
+806005000,2024-10,3
+806005000,2024-11,4
+806005000,2025-09,3
+806005000,2025-11,6
+806407000,2022-04,4
+806407000,2022-10,5
+806407000,2022-11,1
+806407000,2022-12,6
+806407000,2023-01,11
+806407000,2023-11,4
+806407000,2024-04,2
+806407000,2024-07,1
+806407000,2024-09,1
+806407000,2024-10,1
+806407000,2024-11,3
+806407000,2025-04,1
+806407000,2025-08,2
+806407000,2025-09,5
+806407000,2025-10,4
+806407000,2025-11,6
+831600000,2022-04,4
+831600000,2022-09,1
+831600000,2023-01,9
+831600000,2023-11,3
+831600000,2025-02,3
+831600000,2025-03,2
+831600000,2025-04,1
+831600000,2025-09,6
+831600000,2025-11,3
+907201000,2022-03,4
+907201000,2022-12,4
+907201000,2023-01,6
+907201000,2024-11,3
+907201000,2025-05,3
+907201000,2025-06,1
+907202000,2022-03,4
+907202000,2022-12,4
+907202000,2023-01,6
+907202000,2024-11,3
+907202000,2025-05,3
+907202000,2025-06,1
+907202000,2025-11,1
+907322000,2022-07,1
+907322000,2022-10,1
+907322000,2023-07,2
+907322000,2024-09,2
+907322000,2025-05,3
+907322000,2025-06,1
+907322000,2025-10,1
+931700000,2022-04,6
+931700000,2022-05,5
+931700000,2022-07,1
+931700000,2022-08,2
+931700000,2022-10,4
+931700000,2022-12,8
+931700000,2023-01,13
+931700000,2023-02,1
+931700000,2023-08,4
+931700000,2023-09,1
+931700000,2024-07,10
+931700000,2024-08,1
+931700000,2024-09,4
+931700000,2024-10,5
+931700000,2025-06,8
+931700000,2025-07,6
+931700000,2025-08,2
+931700000,2025-09,3
+931700000,2025-10,3
+931700000,2025-11,7
+931700000,2025-12,6
+990101000,2022-10,4
+990101000,2022-11,3
+990101000,2022-12,3
+990101000,2023-01,2
+990101000,2023-09,1
+990101000,2024-06,1
+990101000,2024-07,6
+990101000,2024-09,2
+990101000,2024-11,1
+990101000,2025-05,9
+990101000,2025-06,1
+990101000,2025-07,1
+1001312000,2022-04,2
+1001312000,2022-08,1
+1001312000,2022-12,4
+1001312000,2023-06,1
+1001312000,2024-01,5
+1001312000,2024-02,2
+1001312000,2024-07,3
+1001312000,2024-09,1
+1001312000,2024-10,2
+1001312000,2025-06,2
+1001312000,2025-09,5
+1001321000,2022-02,1
+1001321000,2022-04,2
+1001321000,2022-08,1
+1001321000,2022-12,4
+1001321000,2023-06,1
+1001321000,2024-07,9
+1001321000,2024-08,1
+1001321000,2024-09,1
+1001321000,2024-10,2
+1001321000,2024-11,1
+1001321000,2024-12,1
+1001321000,2025-02,1
+1001321000,2025-06,2
+1001321000,2025-09,5
+1001321000,2025-10,2
+1004209000,2022-03,3
+1004209000,2022-10,1
+1004209000,2022-12,8
+1004209000,2023-01,5
+1004209000,2023-02,1
+1004209000,2023-11,3
+1004209000,2023-12,1
+1004209000,2024-07,7
+1004209000,2024-11,1
+1004209000,2024-12,3
+1004209000,2025-09,2
+1004209000,2025-11,7
+1004209000,2025-12,1
+1004210000,2022-03,3
+1004210000,2022-10,1
+1004210000,2022-12,4
+1004210000,2023-01,6
+1004210000,2023-02,1
+1004210000,2023-08,2
+1004210000,2023-11,3
+1004210000,2023-12,1
+1004210000,2024-07,7
+1004210000,2024-12,4
+1004210000,2025-03,1
+1004210000,2025-09,2
+1004210000,2025-11,7
+1004210000,2025-12,1
+1004215000,2022-03,3
+1004215000,2022-10,1
+1004215000,2022-12,1
+1004215000,2023-01,3
+1004215000,2023-02,1
+1004215000,2023-08,2
+1004215000,2023-11,3
+1004215000,2023-12,1
+1004215000,2024-07,7
+1004215000,2024-12,4
+1004215000,2025-03,1
+1004215000,2025-09,2
+1004215000,2025-11,7
+1004215000,2025-12,1
+1004307000,2022-03,2
+1004307000,2022-10,1
+1004307000,2022-12,5
+1004307000,2023-01,2
+1004307000,2024-05,5
+1004307000,2025-05,1
+1004307000,2025-06,2
+1004307000,2025-11,6
+1004308000,2022-10,1
+1004308000,2022-12,8
+1004308000,2023-01,2
+1004308000,2023-02,2
+1004308000,2024-02,3
+1004308000,2024-05,5
+1004308000,2024-12,1
+1004308000,2025-05,1
+1004308000,2025-06,2
+1004308000,2025-11,5
+1030500000,2022-03,4
+1030500000,2022-04,2
+1030500000,2022-07,3
+1030500000,2022-10,7
+1030500000,2022-12,7
+1030500000,2023-08,2
+1030500000,2023-11,3
+1030500000,2024-05,5
+1030500000,2024-07,3
+1030500000,2024-08,1
+1030500000,2024-10,2
+1030500000,2025-01,1
+1030500000,2025-05,5
+1030500000,2025-06,5
+1030500000,2025-07,3
+1030500000,2025-08,1
+1030500000,2025-09,3
+1030500000,2025-10,6
+1030500000,2025-11,8
+1030900000,2022-03,4
+1030900000,2022-07,3
+1030900000,2022-10,4
+1030900000,2022-12,7
+1030900000,2023-11,3
+1030900000,2024-05,5
+1030900000,2024-07,2
+1030900000,2024-08,2
+1030900000,2024-10,2
+1030900000,2024-11,2
+1030900000,2025-05,1
+1030900000,2025-06,4
+1030900000,2025-07,5
+1030900000,2025-08,1
+1030900000,2025-09,5
+1030900000,2025-10,1
+1030900000,2025-11,7
+1030900000,2025-12,1
+1102315000,2022-01,1
+1102315000,2022-03,2
+1102315000,2022-04,8
+1102315000,2022-05,2
+1102315000,2022-08,3
+1102315000,2022-09,1
+1102315000,2022-11,1
+1102315000,2022-12,2
+1102315000,2023-01,6
+1102315000,2023-02,2
+1102315000,2023-04,1
+1102315000,2023-06,2
+1102315000,2023-07,1
+1102315000,2023-08,2
+1102315000,2023-09,1
+1102315000,2023-11,3
+1102315000,2023-12,3
+1102315000,2024-01,10
+1102315000,2024-02,6
+1102315000,2024-03,1
+1102315000,2024-05,2
+1102315000,2024-07,2
+1102315000,2024-08,2
+1102315000,2024-09,4
+1102315000,2024-10,1
+1102315000,2024-12,2
+1102315000,2025-01,6
+1102315000,2025-02,2
+1102315000,2025-05,5
+1102315000,2025-07,1
+1102315000,2025-08,3
+1102315000,2025-09,2
+1102315000,2025-11,2
+1102317000,2022-01,1
+1102317000,2022-05,2
+1102317000,2023-01,1
+1102317000,2023-07,4
+1102317000,2023-11,1
+1102317000,2023-12,3
+1102317000,2024-01,5
+1102317000,2024-02,2
+1102317000,2025-01,4
+1102317000,2025-02,2
+1102317000,2025-07,2
+1102317000,2025-08,2
+1102319000,2022-01,8
+1102319000,2022-03,2
+1102319000,2022-04,11
+1102319000,2022-05,2
+1102319000,2023-01,8
+1102319000,2023-02,1
+1102319000,2023-03,2
+1102319000,2023-08,2
+1102319000,2023-09,1
+1102319000,2023-11,1
+1102319000,2023-12,3
+1102319000,2024-01,9
+1102319000,2024-02,13
+1102319000,2024-06,2
+1102319000,2024-08,1
+1102319000,2024-10,1
+1102319000,2025-01,5
+1102319000,2025-02,2
+1102319000,2025-10,1
+1102403000,2022-05,2
+1102403000,2022-07,1
+1102403000,2022-11,2
+1102403000,2023-04,1
+1102403000,2023-06,2
+1102403000,2023-09,2
+1102403000,2023-10,1
+1102403000,2024-01,10
+1102403000,2024-02,2
+1102403000,2024-06,1
+1102403000,2024-09,2
+1102403000,2024-10,3
+1102403000,2024-12,1
+1102403000,2025-08,1
+1102509000,2022-04,2
+1102509000,2022-07,2
+1102509000,2022-12,1
+1102509000,2023-02,2
+1102509000,2024-01,10
+1102509000,2024-02,5
+1102509000,2024-12,3
+1102509000,2025-01,1
+1102509000,2025-07,1
+1102509000,2025-09,2
+1102509000,2025-11,1
+1130700000,2022-01,1
+1130700000,2022-03,2
+1130700000,2022-04,7
+1130700000,2022-05,3
+1130700000,2022-06,3
+1130700000,2022-07,3
+1130700000,2022-08,3
+1130700000,2022-09,1
+1130700000,2022-11,1
+1130700000,2022-12,2
+1130700000,2023-01,7
+1130700000,2023-02,2
+1130700000,2023-03,1
+1130700000,2023-04,1
+1130700000,2023-05,1
+1130700000,2023-06,5
+1130700000,2023-07,1
+1130700000,2023-09,6
+1130700000,2023-10,1
+1130700000,2023-11,6
+1130700000,2023-12,3
+1130700000,2024-01,13
+1130700000,2024-02,11
+1130700000,2024-03,1
+1130700000,2024-05,2
+1130700000,2024-06,1
+1130700000,2024-07,5
+1130700000,2024-08,2
+1130700000,2024-09,5
+1130700000,2024-10,10
+1130700000,2024-12,3
+1130700000,2025-01,6
+1130700000,2025-02,2
+1130700000,2025-05,5
+1130700000,2025-06,3
+1130700000,2025-07,1
+1130700000,2025-08,4
+1130700000,2025-09,3
+1130700000,2025-10,1
+1130700000,2025-11,2
+1204704000,2022-03,1
+1204704000,2022-04,4
+1204704000,2022-05,2
+1204704000,2022-06,1
+1204704000,2022-07,3
+1204704000,2022-08,3
+1204704000,2022-09,1
+1204704000,2022-11,1
+1204704000,2022-12,2
+1204704000,2023-01,2
+1204704000,2023-04,1
+1204704000,2023-06,2
+1204704000,2023-07,2
+1204704000,2023-09,1
+1204704000,2023-10,1
+1204704000,2023-11,3
+1204704000,2024-01,10
+1204704000,2024-02,3
+1204704000,2024-03,1
+1204704000,2024-05,2
+1204704000,2024-07,7
+1204704000,2024-08,2
+1204704000,2024-09,4
+1204704000,2024-10,6
+1204704000,2024-12,1
+1204704000,2025-01,2
+1204704000,2025-05,5
+1204704000,2025-07,3
+1204704000,2025-08,6
+1204704000,2025-09,3
+1204704000,2025-10,1
+1204704000,2025-11,2
+1206306000,2022-05,3
+1206306000,2022-06,1
+1206306000,2022-07,2
+1206306000,2022-10,5
+1206306000,2022-11,1
+1206306000,2023-01,3
+1206306000,2023-02,1
+1206306000,2023-05,5
+1206306000,2023-06,2
+1206306000,2023-09,4
+1206306000,2023-11,1
+1206306000,2024-01,2
+1206306000,2024-07,1
+1206306000,2024-09,2
+1206306000,2024-10,5
+1206306000,2024-12,1
+1206306000,2025-01,2
+1206306000,2025-05,7
+1206306000,2025-06,3
+1206306000,2025-07,1
+1206306000,2025-08,6
+1206306000,2025-09,4
+1206306000,2025-10,1
+1206511000,2022-05,3
+1206511000,2022-06,1
+1206511000,2022-08,2
+1206511000,2022-10,5
+1206511000,2022-11,1
+1206511000,2023-01,1
+1206511000,2023-05,3
+1206511000,2023-06,2
+1206511000,2023-09,3
+1206511000,2023-11,2
+1206511000,2024-01,2
+1206511000,2024-07,1
+1206511000,2024-09,2
+1206511000,2024-10,9
+1206511000,2024-12,2
+1206511000,2025-05,2
+1206511000,2025-06,2
+1206511000,2025-07,1
+1206511000,2025-08,6
+1206511000,2025-09,4
+1206511000,2025-10,1
+1206511000,2025-11,1
+1230800000,2022-03,2
+1230800000,2022-04,3
+1230800000,2022-05,3
+1230800000,2022-06,1
+1230800000,2022-08,4
+1230800000,2022-09,1
+1230800000,2022-10,5
+1230800000,2022-11,2
+1230800000,2023-01,1
+1230800000,2023-05,1
+1230800000,2023-06,7
+1230800000,2023-09,1
+1230800000,2024-01,2
+1230800000,2024-07,1
+1230800000,2024-09,1
+1230800000,2024-12,4
+1230800000,2025-01,1
+1230800000,2025-05,4
+1230800000,2025-06,1
+1230800000,2025-07,2
+1230800000,2025-08,1
+1230800000,2025-09,3
+1230800000,2025-10,2
+1380100000,2022-01,1
+1380100000,2022-02,2
+1380100000,2022-03,2
+1380100000,2022-04,3
+1380100000,2022-05,1
+1380100000,2022-06,5
+1380100000,2022-07,9
+1380100000,2022-08,12
+1380100000,2022-09,14
+1380100000,2022-10,9
+1380100000,2022-11,4
+1380100000,2022-12,6
+1380100000,2023-01,5
+1380100000,2023-04,2
+1380100000,2023-05,7
+1380100000,2023-06,3
+1380100000,2023-07,14
+1380100000,2023-08,14
+1380100000,2023-09,7
+1380100000,2023-10,1
+1380100000,2023-12,3
+1380100000,2024-02,4
+1380100000,2024-03,1
+1380100000,2024-05,8
+1380100000,2024-06,4
+1380100000,2024-07,15
+1380100000,2024-08,14
+1380100000,2024-09,9
+1380100000,2024-10,12
+1380100000,2024-11,8
+1380100000,2024-12,2
+1380100000,2025-01,1
+1380100000,2025-03,4
+1380100000,2025-04,3
+1380100000,2025-05,7
+1380100000,2025-06,14
+1380100000,2025-07,22
+1380100000,2025-08,19
+1380100000,2025-09,24
+1380100000,2025-10,9
+1380100000,2025-11,12
+1380200000,2022-05,2
+1380200000,2022-07,2
+1380200000,2022-08,4
+1380200000,2022-09,7
+1380200000,2022-10,5
+1380200000,2022-11,2
+1380200000,2022-12,2
+1380200000,2023-01,2
+1380200000,2023-04,2
+1380200000,2023-07,4
+1380200000,2023-08,7
+1380200000,2023-09,5
+1380200000,2024-02,3
+1380200000,2024-04,2
+1380200000,2024-05,3
+1380200000,2024-06,1
+1380200000,2024-07,12
+1380200000,2024-08,3
+1380200000,2024-09,11
+1380200000,2024-10,7
+1380200000,2024-11,1
+1380200000,2025-05,3
+1380200000,2025-06,2
+1380200000,2025-07,18
+1380200000,2025-08,16
+1380200000,2025-09,19
+1380200000,2025-10,3
+1380200000,2025-11,7
+1380300000,2022-04,1
+1380300000,2022-05,1
+1380300000,2022-07,3
+1380300000,2022-08,3
+1380300000,2022-09,6
+1380300000,2022-10,4
+1380300000,2022-11,1
+1380300000,2022-12,1
+1380300000,2023-01,2
+1380300000,2023-02,1
+1380300000,2023-04,2
+1380300000,2023-05,1
+1380300000,2023-06,4
+1380300000,2023-07,6
+1380300000,2023-08,7
+1380300000,2023-09,6
+1380300000,2023-11,3
+1380300000,2023-12,1
+1380300000,2024-01,3
+1380300000,2024-02,2
+1380300000,2024-04,1
+1380300000,2024-05,3
+1380300000,2024-06,1
+1380300000,2024-07,11
+1380300000,2024-08,3
+1380300000,2024-09,8
+1380300000,2024-10,6
+1380300000,2024-11,1
+1380300000,2024-12,2
+1380300000,2025-03,1
+1380300000,2025-04,1
+1380300000,2025-06,4
+1380300000,2025-07,20
+1380300000,2025-08,10
+1380300000,2025-09,14
+1380300000,2025-10,5
+1380300000,2025-11,6
+1380400000,2022-05,1
+1380400000,2022-06,5
+1380400000,2022-07,9
+1380400000,2022-08,6
+1380400000,2022-09,12
+1380400000,2022-10,7
+1380400000,2022-11,3
+1380400000,2022-12,2
+1380400000,2023-01,2
+1380400000,2023-04,3
+1380400000,2023-05,1
+1380400000,2023-06,3
+1380400000,2023-07,12
+1380400000,2023-08,8
+1380400000,2023-09,9
+1380400000,2023-10,2
+1380400000,2024-02,2
+1380400000,2024-03,1
+1380400000,2024-05,4
+1380400000,2024-06,5
+1380400000,2024-07,15
+1380400000,2024-08,5
+1380400000,2024-09,8
+1380400000,2024-10,8
+1380400000,2024-11,7
+1380400000,2024-12,2
+1380400000,2025-06,12
+1380400000,2025-07,22
+1380400000,2025-08,19
+1380400000,2025-09,21
+1380400000,2025-10,3
+1380400000,2025-11,7
+1380500000,2022-01,1
+1380500000,2022-02,2
+1380500000,2022-03,2
+1380500000,2022-04,3
+1380500000,2022-05,1
+1380500000,2022-06,2
+1380500000,2022-07,3
+1380500000,2022-08,12
+1380500000,2022-09,11
+1380500000,2022-10,8
+1380500000,2022-11,2
+1380500000,2022-12,6
+1380500000,2023-01,5
+1380500000,2023-04,2
+1380500000,2023-05,6
+1380500000,2023-06,6
+1380500000,2023-07,7
+1380500000,2023-08,9
+1380500000,2023-09,7
+1380500000,2023-11,3
+1380500000,2023-12,4
+1380500000,2024-01,3
+1380500000,2024-02,4
+1380500000,2024-03,1
+1380500000,2024-05,8
+1380500000,2024-06,1
+1380500000,2024-07,15
+1380500000,2024-08,10
+1380500000,2024-09,8
+1380500000,2024-10,12
+1380500000,2024-11,6
+1380500000,2024-12,3
+1380500000,2025-01,1
+1380500000,2025-03,4
+1380500000,2025-04,3
+1380500000,2025-05,7
+1380500000,2025-06,7
+1380500000,2025-07,23
+1380500000,2025-08,15
+1380500000,2025-09,20
+1380500000,2025-10,9
+1380500000,2025-11,10
+1380600000,2022-01,1
+1380600000,2022-02,4
+1380600000,2022-03,3
+1380600000,2022-04,3
+1380600000,2022-05,3
+1380600000,2022-06,5
+1380600000,2022-07,5
+1380600000,2022-08,14
+1380600000,2022-09,12
+1380600000,2022-10,9
+1380600000,2022-11,1
+1380600000,2022-12,5
+1380600000,2023-01,5
+1380600000,2023-04,3
+1380600000,2023-05,7
+1380600000,2023-06,5
+1380600000,2023-07,7
+1380600000,2023-08,10
+1380600000,2023-09,8
+1380600000,2023-10,2
+1380600000,2023-12,3
+1380600000,2024-02,5
+1380600000,2024-03,7
+1380600000,2024-05,8
+1380600000,2024-06,3
+1380600000,2024-07,19
+1380600000,2024-08,15
+1380600000,2024-09,9
+1380600000,2024-10,11
+1380600000,2024-11,7
+1380600000,2024-12,4
+1380600000,2025-01,3
+1380600000,2025-02,1
+1380600000,2025-03,5
+1380600000,2025-04,3
+1380600000,2025-05,7
+1380600000,2025-06,9
+1380600000,2025-07,27
+1380600000,2025-08,18
+1380600000,2025-09,22
+1380600000,2025-10,8
+1380600000,2025-11,13
+1380600000,2025-12,2
+1380700000,2022-04,5
+1380700000,2022-05,1
+1380700000,2022-06,2
+1380700000,2022-07,3
+1380700000,2022-08,5
+1380700000,2022-09,11
+1380700000,2022-10,6
+1380700000,2022-11,1
+1380700000,2022-12,5
+1380700000,2023-01,4
+1380700000,2023-04,2
+1380700000,2023-06,3
+1380700000,2023-07,13
+1380700000,2023-08,11
+1380700000,2023-09,7
+1380700000,2023-12,1
+1380700000,2024-02,3
+1380700000,2024-05,4
+1380700000,2024-06,4
+1380700000,2024-07,17
+1380700000,2024-08,11
+1380700000,2024-09,12
+1380700000,2024-10,10
+1380700000,2024-11,4
+1380700000,2024-12,1
+1380700000,2025-03,3
+1380700000,2025-04,2
+1380700000,2025-05,2
+1380700000,2025-06,4
+1380700000,2025-07,23
+1380700000,2025-08,19
+1380700000,2025-09,18
+1380700000,2025-10,7
+1380700000,2025-11,8
+1380800000,2022-01,7
+1380800000,2022-03,3
+1380800000,2022-05,3
+1380800000,2022-07,3
+1380800000,2022-08,4
+1380800000,2022-09,7
+1380800000,2022-10,6
+1380800000,2022-11,4
+1380800000,2022-12,3
+1380800000,2023-01,3
+1380800000,2023-03,1
+1380800000,2023-04,2
+1380800000,2023-05,1
+1380800000,2023-07,8
+1380800000,2023-08,7
+1380800000,2023-09,5
+1380800000,2024-02,2
+1380800000,2024-04,2
+1380800000,2024-05,7
+1380800000,2024-06,1
+1380800000,2024-07,14
+1380800000,2024-08,4
+1380800000,2024-09,11
+1380800000,2024-10,10
+1380800000,2024-11,2
+1380800000,2024-12,1
+1380800000,2025-02,3
+1380800000,2025-05,2
+1380800000,2025-06,3
+1380800000,2025-07,18
+1380800000,2025-08,13
+1380800000,2025-09,18
+1380800000,2025-10,2
+1380800000,2025-11,12
+1380800000,2025-12,1
+1380900000,2022-01,1
+1380900000,2022-02,2
+1380900000,2022-03,2
+1380900000,2022-04,3
+1380900000,2022-05,1
+1380900000,2022-06,4
+1380900000,2022-07,6
+1380900000,2022-08,12
+1380900000,2022-09,14
+1380900000,2022-10,7
+1380900000,2022-11,4
+1380900000,2022-12,6
+1380900000,2023-01,5
+1380900000,2023-04,3
+1380900000,2023-05,7
+1380900000,2023-06,2
+1380900000,2023-07,11
+1380900000,2023-08,9
+1380900000,2023-09,9
+1380900000,2023-10,3
+1380900000,2023-12,2
+1380900000,2024-02,3
+1380900000,2024-03,1
+1380900000,2024-05,8
+1380900000,2024-06,5
+1380900000,2024-07,13
+1380900000,2024-08,9
+1380900000,2024-09,10
+1380900000,2024-10,11
+1380900000,2024-11,10
+1380900000,2024-12,3
+1380900000,2025-01,1
+1380900000,2025-03,3
+1380900000,2025-04,3
+1380900000,2025-05,6
+1380900000,2025-06,12
+1380900000,2025-07,20
+1380900000,2025-08,20
+1380900000,2025-09,22
+1380900000,2025-10,7
+1380900000,2025-11,10
+1381000000,2022-05,2
+1381000000,2022-07,2
+1381000000,2022-08,3
+1381000000,2022-09,7
+1381000000,2022-10,5
+1381000000,2022-11,1
+1381000000,2022-12,1
+1381000000,2023-01,2
+1381000000,2023-03,2
+1381000000,2023-04,2
+1381000000,2023-07,8
+1381000000,2023-08,7
+1381000000,2023-09,6
+1381000000,2024-02,3
+1381000000,2024-03,1
+1381000000,2024-05,3
+1381000000,2024-06,1
+1381000000,2024-07,10
+1381000000,2024-08,4
+1381000000,2024-09,10
+1381000000,2024-10,6
+1381000000,2024-11,1
+1381000000,2024-12,1
+1381000000,2025-03,1
+1381000000,2025-04,1
+1381000000,2025-05,3
+1381000000,2025-06,4
+1381000000,2025-07,18
+1381000000,2025-08,16
+1381000000,2025-09,16
+1381000000,2025-10,3
+1381000000,2025-11,7
+1381100000,2022-01,1
+1381100000,2022-02,2
+1381100000,2022-03,2
+1381100000,2022-04,3
+1381100000,2022-05,2
+1381100000,2022-06,2
+1381100000,2022-07,2
+1381100000,2022-08,11
+1381100000,2022-09,11
+1381100000,2022-10,7
+1381100000,2022-11,1
+1381100000,2022-12,5
+1381100000,2023-01,5
+1381100000,2023-02,1
+1381100000,2023-04,2
+1381100000,2023-05,6
+1381100000,2023-06,4
+1381100000,2023-07,4
+1381100000,2023-08,8
+1381100000,2023-09,6
+1381100000,2023-12,2
+1381100000,2024-02,3
+1381100000,2024-03,1
+1381100000,2024-05,7
+1381100000,2024-06,1
+1381100000,2024-07,12
+1381100000,2024-08,8
+1381100000,2024-09,9
+1381100000,2024-10,10
+1381100000,2024-11,6
+1381100000,2024-12,1
+1381100000,2025-01,1
+1381100000,2025-03,4
+1381100000,2025-04,3
+1381100000,2025-05,8
+1381100000,2025-06,4
+1381100000,2025-07,14
+1381100000,2025-08,17
+1381100000,2025-09,16
+1381100000,2025-10,6
+1381100000,2025-11,7
+1381200000,2022-02,2
+1381200000,2022-04,2
+1381200000,2022-05,1
+1381200000,2022-06,2
+1381200000,2022-07,2
+1381200000,2022-08,6
+1381200000,2022-09,9
+1381200000,2022-10,6
+1381200000,2022-11,1
+1381200000,2022-12,5
+1381200000,2023-01,2
+1381200000,2023-04,2
+1381200000,2023-06,3
+1381200000,2023-07,14
+1381200000,2023-08,11
+1381200000,2023-09,7
+1381200000,2023-12,1
+1381200000,2024-02,3
+1381200000,2024-05,4
+1381200000,2024-06,3
+1381200000,2024-07,16
+1381200000,2024-08,9
+1381200000,2024-09,12
+1381200000,2024-10,9
+1381200000,2024-11,4
+1381200000,2024-12,1
+1381200000,2025-03,3
+1381200000,2025-04,2
+1381200000,2025-05,2
+1381200000,2025-06,5
+1381200000,2025-07,21
+1381200000,2025-08,19
+1381200000,2025-09,19
+1381200000,2025-10,7
+1381200000,2025-11,8
+1381300000,2022-01,1
+1381300000,2022-02,2
+1381300000,2022-03,2
+1381300000,2022-04,3
+1381300000,2022-05,3
+1381300000,2022-06,4
+1381300000,2022-07,6
+1381300000,2022-08,12
+1381300000,2022-09,11
+1381300000,2022-10,8
+1381300000,2022-11,2
+1381300000,2022-12,9
+1381300000,2023-01,7
+1381300000,2023-04,2
+1381300000,2023-05,8
+1381300000,2023-06,4
+1381300000,2023-07,14
+1381300000,2023-08,14
+1381300000,2023-09,8
+1381300000,2023-10,1
+1381300000,2023-12,3
+1381300000,2024-02,6
+1381300000,2024-03,1
+1381300000,2024-05,9
+1381300000,2024-06,4
+1381300000,2024-07,18
+1381300000,2024-08,15
+1381300000,2024-09,13
+1381300000,2024-10,13
+1381300000,2024-11,7
+1381300000,2024-12,3
+1381300000,2025-01,1
+1381300000,2025-02,1
+1381300000,2025-03,4
+1381300000,2025-04,3
+1381300000,2025-05,7
+1381300000,2025-06,10
+1381300000,2025-07,26
+1381300000,2025-08,22
+1381300000,2025-09,20
+1381300000,2025-10,15
+1381300000,2025-11,10
+1381400000,2022-02,1
+1381400000,2022-04,2
+1381400000,2022-05,1
+1381400000,2022-07,2
+1381400000,2022-08,4
+1381400000,2022-09,7
+1381400000,2022-10,6
+1381400000,2022-12,1
+1381400000,2023-01,2
+1381400000,2023-04,2
+1381400000,2023-06,3
+1381400000,2023-07,5
+1381400000,2023-08,8
+1381400000,2023-09,7
+1381400000,2023-12,1
+1381400000,2024-02,3
+1381400000,2024-03,1
+1381400000,2024-05,4
+1381400000,2024-06,1
+1381400000,2024-07,10
+1381400000,2024-08,5
+1381400000,2024-09,7
+1381400000,2024-10,9
+1381400000,2024-11,1
+1381400000,2024-12,1
+1381400000,2025-03,3
+1381400000,2025-05,2
+1381400000,2025-06,4
+1381400000,2025-07,21
+1381400000,2025-08,12
+1381400000,2025-09,18
+1381400000,2025-10,4
+1381400000,2025-11,8
+1381500000,2022-01,7
+1381500000,2022-03,2
+1381500000,2022-05,2
+1381500000,2022-07,4
+1381500000,2022-08,2
+1381500000,2022-09,7
+1381500000,2022-10,5
+1381500000,2022-11,2
+1381500000,2022-12,1
+1381500000,2023-01,2
+1381500000,2023-04,2
+1381500000,2023-05,2
+1381500000,2023-06,2
+1381500000,2023-07,8
+1381500000,2023-08,6
+1381500000,2023-09,5
+1381500000,2023-11,1
+1381500000,2024-02,2
+1381500000,2024-05,4
+1381500000,2024-06,1
+1381500000,2024-07,13
+1381500000,2024-08,4
+1381500000,2024-09,9
+1381500000,2024-10,6
+1381500000,2024-11,1
+1381500000,2024-12,1
+1381500000,2025-04,1
+1381500000,2025-05,2
+1381500000,2025-06,4
+1381500000,2025-07,18
+1381500000,2025-08,15
+1381500000,2025-09,15
+1381500000,2025-10,5
+1381500000,2025-11,7
+1381500000,2025-12,1
+1381600000,2022-04,2
+1381600000,2022-05,1
+1381600000,2022-06,5
+1381600000,2022-07,8
+1381600000,2022-08,7
+1381600000,2022-09,12
+1381600000,2022-10,7
+1381600000,2022-11,3
+1381600000,2022-12,3
+1381600000,2023-01,2
+1381600000,2023-04,2
+1381600000,2023-05,1
+1381600000,2023-06,4
+1381600000,2023-07,16
+1381600000,2023-08,14
+1381600000,2023-09,8
+1381600000,2023-10,2
+1381600000,2023-12,2
+1381600000,2024-02,3
+1381600000,2024-03,1
+1381600000,2024-05,5
+1381600000,2024-06,4
+1381600000,2024-07,16
+1381600000,2024-08,8
+1381600000,2024-09,9
+1381600000,2024-10,10
+1381600000,2024-11,6
+1381600000,2024-12,1
+1381600000,2025-01,1
+1381600000,2025-03,3
+1381600000,2025-05,2
+1381600000,2025-06,10
+1381600000,2025-07,23
+1381600000,2025-08,21
+1381600000,2025-09,23
+1381600000,2025-10,5
+1381600000,2025-11,10
+1381600000,2025-12,1
+1403213000,2022-07,4
+1403213000,2022-08,2
+1403213000,2022-09,2
+1403213000,2022-11,1
+1403213000,2023-07,2
+1403213000,2023-08,1
+1403213000,2023-09,1
+1403213000,2024-07,2
+1403213000,2024-08,1
+1403213000,2024-09,1
+1403213000,2024-10,3
+1403213000,2024-11,1
+1403213000,2025-09,4
+1403213000,2025-11,7
+1430300000,2022-04,1
+1430300000,2022-07,2
+1430300000,2022-08,3
+1430300000,2022-09,1
+1430300000,2022-11,1
+1430300000,2023-05,2
+1430300000,2023-06,2
+1430300000,2023-07,5
+1430300000,2023-08,1
+1430300000,2023-09,1
+1430300000,2023-12,1
+1430300000,2024-02,1
+1430300000,2024-03,1
+1430300000,2024-07,4
+1430300000,2024-08,1
+1430300000,2024-09,3
+1430300000,2024-10,5
+1430300000,2024-11,1
+1430300000,2024-12,2
+1430300000,2025-07,16
+1430300000,2025-08,1
+1430300000,2025-09,10
+1430300000,2025-10,4
+1430300000,2025-11,2
+1600203000,2022-01,1
+1600203000,2022-12,6
+1600203000,2023-01,2
+1600203000,2023-02,3
+1600203000,2023-12,1
+1600203000,2024-01,1
+1600203000,2024-02,3
+1600203000,2024-10,1
+1600203000,2024-11,3
+1600203000,2025-07,3
+1600203000,2025-09,1
+1600203000,2025-11,7
+1600203000,2025-12,1
+1600301000,2022-12,6
+1600301000,2023-01,2
+1600301000,2023-02,4
+1600301000,2023-12,3
+1600301000,2024-01,4
+1600301000,2024-02,6
+1600301000,2024-06,2
+1600301000,2025-03,1
+1600301000,2025-11,7
+1606724000,2022-01,2
+1606724000,2022-12,4
+1606724000,2023-02,1
+1606724000,2024-02,1
+1606724000,2024-10,3
+1606724000,2024-11,3
+1606724000,2025-03,1
+1606724000,2025-10,4
+1606724000,2025-11,6
+1606803000,2022-04,2
+1606803000,2022-12,6
+1606803000,2023-02,1
+1606803000,2023-12,2
+1606803000,2024-01,7
+1606803000,2024-02,7
+1606803000,2024-06,2
+1606803000,2025-05,1
+1606803000,2025-11,6
+1606819000,2022-12,5
+1606819000,2023-01,1
+1606819000,2023-12,2
+1606819000,2024-02,2
+1606819000,2024-06,2
+1606819000,2025-11,6
+1630400000,2022-04,3
+1630400000,2022-12,7
+1630400000,2023-01,3
+1630400000,2023-02,4
+1630400000,2024-01,1
+1630400000,2024-02,10
+1630400000,2024-07,1
+1630400000,2024-11,1
+1630400000,2025-07,2
+1630400000,2025-08,1
+1630400000,2025-09,2
+1630400000,2025-11,10
+1705205000,2022-12,4
+1705205000,2023-01,18
+1705205000,2023-02,5
+1705205000,2023-07,5
+1705205000,2023-11,2
+1705205000,2023-12,1
+1705205000,2024-05,3
+1705205000,2024-07,10
+1705205000,2024-10,6
+1705205000,2024-11,1
+1705205000,2024-12,6
+1705205000,2025-01,1
+1705205000,2025-02,6
+1705205000,2025-07,9
+1705205000,2025-08,3
+1705205000,2025-09,2
+1705205000,2025-11,2
+1705205000,2025-12,4
+1731500000,2022-03,1
+1731500000,2022-10,6
+1731500000,2022-11,1
+1731500000,2022-12,5
+1731500000,2023-07,3
+1731500000,2023-12,2
+1731500000,2024-07,2
+1731500000,2024-08,2
+1731500000,2024-09,7
+1731500000,2024-10,2
+1731500000,2024-12,4
+1731500000,2025-02,11
+1731500000,2025-06,1
+1731500000,2025-07,8
+1731500000,2025-08,5
+1731500000,2025-10,1
+1731500000,2025-11,8
+1731500000,2025-12,1
+1900702000,2022-10,4
+1900702000,2022-11,3
+1900702000,2022-12,3
+1900702000,2023-01,4
+1900702000,2023-09,1
+1900702000,2024-06,1
+1900702000,2024-07,8
+1900702000,2024-09,2
+1900702000,2024-11,1
+1900702000,2025-05,9
+1900702000,2025-06,1
+1900702000,2025-07,1
+1903617000,2022-03,3
+1903617000,2022-10,1
+1903617000,2022-12,4
+1903617000,2024-07,2
+1903617000,2024-08,1
+1903617000,2024-11,1
+1903617000,2025-05,1
+1903617000,2025-07,2
+1903617000,2025-09,1
+1903617000,2025-11,1
+1903617000,2025-12,1
+1908703000,2022-03,2
+1908703000,2022-07,5
+1908703000,2022-08,3
+1908703000,2022-10,8
+1908703000,2022-12,2
+1908703000,2023-05,3
+1908703000,2023-06,1
+1908703000,2024-07,12
+1908703000,2024-09,4
+1908703000,2024-10,5
+1908703000,2024-11,1
+1908703000,2025-05,6
+1908703000,2025-06,1
+1908703000,2025-07,3
+1908703000,2025-08,4
+1908703000,2025-09,1
